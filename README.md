@@ -5,7 +5,9 @@ An interactive Power BI dashboard designed to provide a comprehensive view of ho
 
 The dashboard transforms hospital operational data into actionable insights through interactive KPIs, trend analysis, departmental comparisons, and physician performance metrics.
 
-🎯 Business Objectives
+--------------------------------------------------------------------------
+
+Business Objectives
 
 The main objectives of this dashboard are to:
 
@@ -19,7 +21,12 @@ Identify the main reasons for appointment cancellations.
 Understand patient visit patterns.
 Monitor patient satisfaction.
 Support data-driven operational and management decisions.
-🛠️ Tools & Technologies
+
+
+---------------------------------------------
+
+Tools & Technologies:
+
 Power BI
 Power Query
 DAX
@@ -27,25 +34,34 @@ Data Modeling
 Data Cleaning & Transformation
 Data Visualization
 Healthcare Analytics
-📸 Dashboard Preview
-🏠 Cover
+------------------------------------------------------------------
+
+Dashboard Preview
+
+<img width="2655" height="1582" alt="Cover" src="https://github.com/user-attachments/assets/788fb0bd-cdea-4412-a870-4749367057d5" />
+
 
 The dashboard starts with an interactive cover page providing navigation to the main analytical sections.
 
 
 
+--------------------------------------------------------
 
-📈 Executive Overview
+Executive Overview
+<img width="2700" height="1572" alt="executive_overview" src="https://github.com/user-attachments/assets/5b6a5fbf-96a1-4af7-bb12-6df030b5b881" />
 
 The Executive Overview provides a high-level summary of hospital performance through key KPIs and trend analysis.
 
+
 Key Performance Indicators
+
 KPI	Value
-💰 Total Revenue	$2.28M
-📅 Total Appointments	2K
-❌ Missed Appointment Rate	11.35%
-💳 Paid Bills Rate	60.49%
-⭐ Patient Satisfaction	3.65 / 5
+Total Revenue	$2.28M
+Total Appointments	2K
+Missed Appointment Rate	11.35%
+Paid Bills Rate	60.49%
+Patient Satisfaction	3.65 / 5
+
 Analysis Included
 Appointment status distribution
 Payment status distribution
@@ -57,7 +73,11 @@ Year and date-range filtering
 
 
 
-👨‍⚕️ Doctors Performance
+--------------------------------------------------------------------
+Doctors Performance
+
+<img width="2745" height="1595" alt="doctors_performance" src="https://github.com/user-attachments/assets/cc3d2947-d885-4c68-88df-84d0cd8aeff7" />
+
 
 This page focuses on physician-level performance and productivity.
 
@@ -80,9 +100,11 @@ Which departments contribute the most revenue?
 Are there physicians with unusually high missed appointments?
 
 
+---------------------------------------
 
-
-⚙️ Operational Details
+ Operational Details
+ 
+<img width="2630" height="1570" alt="operational_details" src="https://github.com/user-attachments/assets/b096c674-3fb7-41d2-b113-45ca7ba89cfa" />
 
 The Operational Details page focuses on hospital operations, payment behavior, cancellations, and patient visit patterns.
 
@@ -122,7 +144,7 @@ Consultation
 
 
 
-🔍 Key Insights
+---------- Key Insights -------------- 
 
 Based on the dashboard analysis:
 
@@ -136,7 +158,9 @@ Emergency and Vaccination were among the most frequent reasons for visits.
 Weather-related and insurance-related issues were important contributors to appointment cancellations.
 Bank transfers had the highest average collection period among the analyzed payment methods.
 Physician-level analysis highlights differences in appointment volume, missed appointments, ratings, and revenue contribution.
-📌 Interactive Features
+
+
+Interactive Features
 
 The dashboard includes interactive features to allow users to explore the data dynamically:
 
