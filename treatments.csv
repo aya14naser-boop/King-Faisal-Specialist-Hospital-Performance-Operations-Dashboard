@@ -1,0 +1,1140 @@
+treatment_id,appointment_id,treatment_type,department,description,cost,insurance_covered_pct,follow_up_required,treatment_date
+T0001,A0002,Medication Review,Outpatient,Basic screening,199.96,0,No,2024-12-22
+T0002,A0006,Blood Test,Outpatient,Advanced protocol,307.57,50,Yes,2023-01-23
+T0003,A0007,Medication Review,Outpatient,Routine test,228.56,100,Yes,2023-04-20
+T0004,A0008,CT Scan,Inpatient,Follow-up assessment,3268.39,0,Yes,2024-10-02
+T0005,A0011,X-Ray,Outpatient,Advanced protocol,456.2,50,Yes,2024-01-16
+T0006,A0012,Ultrasound,Inpatient,Advanced protocol,547.44,100,No,2024-05-17
+T0007,A0013,Blood Test,Outpatient,Follow-up assessment,218.31,100,No,2024-03-03
+T0008,A0014,Consultation,Inpatient,Specialist review,358.94,50,No,2023-05-16
+T0009,A0015,Physical Therapy,Outpatient,Standard procedure,436.18,50,Yes,2024-05-23
+T0010,A0016,Physical Therapy,Inpatient,Basic screening,453.29,0,No,2024-08-29
+T0011,A0017,X-Ray,Inpatient,Standard procedure,429.12,70,No,2024-07-20
+T0012,A0018,Consultation,Inpatient,Routine test,371.39,80,Yes,2024-01-05
+T0013,A0019,Minor Surgery,Inpatient,Basic screening,5914.89,100,No,2023-01-30
+T0014,A0020,Medication Review,Outpatient,Diagnostic imaging,186.99,70,Yes,2023-04-15
+T0015,A0025,X-Ray,Inpatient,Basic screening,461.36,50,No,2023-12-02
+T0016,A0027,X-Ray,Outpatient,Specialist review,461.68,50,Yes,2023-04-22
+T0017,A0029,Minor Surgery,Outpatient,Standard procedure,4858.48,80,No,2024-01-02
+T0018,A0031,MRI,Outpatient,Standard procedure,4239.61,70,Yes,2024-12-30
+T0019,A0032,Medication Review,Inpatient,Standard procedure,204.56,0,Yes,2024-03-19
+T0020,A0033,Ultrasound,Inpatient,Routine test,579.89,50,Yes,2024-12-17
+T0021,A0034,Vaccination,Outpatient,Follow-up assessment,164.21,70,Yes,2023-03-18
+T0022,A0035,Medication Review,Inpatient,Standard procedure,181.16,0,Yes,2023-07-13
+T0023,A0038,Consultation,Outpatient,Specialist review,290.06,70,No,2023-01-05
+T0024,A0041,Chemotherapy,Outpatient,Basic screening,5979.27,50,No,2023-04-27
+T0025,A0043,Blood Test,Surgery,Routine test,258.11,80,No,2023-10-30
+T0026,A0044,Medication Review,Outpatient,Follow-up assessment,232.81,50,No,2023-03-16
+T0027,A0045,MRI,Inpatient,Advanced protocol,3719.48,100,No,2024-01-23
+T0028,A0047,CT Scan,Inpatient,Follow-up assessment,3167.08,100,No,2024-03-12
+T0029,A0048,Physical Therapy,Surgery,Advanced protocol,434.79,50,No,2023-02-16
+T0030,A0050,X-Ray,Outpatient,Specialist review,434.29,0,Yes,2024-12-03
+T0031,A0052,MRI,Inpatient,Routine test,4372.07,50,No,2024-04-18
+T0032,A0056,CT Scan,Inpatient,Basic screening,2754.63,80,No,2023-12-26
+T0033,A0057,CT Scan,Inpatient,Follow-up assessment,2628.06,100,No,2023-02-03
+T0034,A0059,Ultrasound,Outpatient,Specialist review,737.73,0,Yes,2024-12-18
+T0035,A0062,Medication Review,Surgery,Diagnostic imaging,247.25,70,No,2023-01-22
+T0036,A0063,X-Ray,Outpatient,Standard procedure,586.68,80,Yes,2023-12-26
+T0037,A0064,Vaccination,Inpatient,Basic screening,145.78,70,Yes,2024-12-04
+T0038,A0065,Ultrasound,Surgery,Basic screening,533.44,70,Yes,2024-10-01
+T0039,A0067,MRI,Inpatient,Standard procedure,4494.77,50,Yes,2024-12-17
+T0040,A0068,CT Scan,Outpatient,Standard procedure,3078.18,80,Yes,2024-12-01
+T0041,A0069,X-Ray,Outpatient,Standard procedure,449.41,70,Yes,2023-10-08
+T0042,A0073,Consultation,Inpatient,Advanced protocol,314.42,100,Yes,2023-12-05
+T0043,A0078,X-Ray,Inpatient,Routine test,431.88,80,Yes,2024-06-04
+T0044,A0083,Ultrasound,Outpatient,Specialist review,728.24,50,Yes,2024-02-19
+T0045,A0084,Medication Review,Inpatient,Follow-up assessment,190.7,100,Yes,2023-08-27
+T0046,A0085,Chemotherapy,Outpatient,Diagnostic imaging,6690.05,100,No,2023-12-14
+T0047,A0086,Blood Test,Outpatient,Diagnostic imaging,243.67,50,No,2024-12-27
+T0048,A0087,Minor Surgery,Surgery,Routine test,5290.14,70,No,2024-01-28
+T0049,A0090,Ultrasound,Inpatient,Follow-up assessment,641.21,0,Yes,2023-07-17
+T0050,A0091,Blood Test,Outpatient,Basic screening,230.99,70,Yes,2024-02-10
+T0051,A0095,CT Scan,Inpatient,Diagnostic imaging,3713.5,50,Yes,2024-01-12
+T0052,A0096,Consultation,Outpatient,Basic screening,348.02,0,Yes,2024-01-09
+T0053,A0097,X-Ray,Outpatient,Basic screening,612.9,70,Yes,2024-07-19
+T0054,A0099,Ultrasound,Inpatient,Advanced protocol,724.76,70,No,2023-01-23
+T0055,A0100,Blood Test,Outpatient,Diagnostic imaging,272.29,50,No,2023-06-26
+T0056,A0101,Blood Test,Outpatient,Specialist review,304.69,80,No,2024-03-27
+T0057,A0102,Blood Test,Inpatient,Basic screening,221.35,0,No,2023-01-22
+T0058,A0106,Physical Therapy,Inpatient,Follow-up assessment,371.36,80,No,2024-12-17
+T0059,A0108,Consultation,Outpatient,Routine test,260.43,0,Yes,2024-11-12
+T0060,A0109,Minor Surgery,Outpatient,Routine test,4900.66,70,Yes,2024-12-02
+T0061,A0110,Blood Test,Inpatient,Advanced protocol,251.37,50,No,2023-09-05
+T0062,A0111,MRI,Inpatient,Follow-up assessment,3834.16,50,No,2023-12-30
+T0063,A0114,Vaccination,Outpatient,Advanced protocol,177.22,0,No,2023-11-09
+T0064,A0115,Ultrasound,Outpatient,Basic screening,595.62,0,Yes,2024-08-18
+T0065,A0116,X-Ray,Inpatient,Specialist review,481.19,50,Yes,2024-06-30
+T0066,A0118,Minor Surgery,Outpatient,Follow-up assessment,5335.39,80,Yes,2024-02-21
+T0067,A0119,Minor Surgery,Inpatient,Basic screening,4531.85,50,No,2024-03-20
+T0068,A0120,Consultation,Inpatient,Follow-up assessment,351.26,70,No,2024-06-14
+T0069,A0122,Chemotherapy,Outpatient,Follow-up assessment,5278.92,100,No,2023-07-03
+T0070,A0123,MRI,Inpatient,Advanced protocol,4979.02,70,Yes,2024-09-07
+T0071,A0126,Consultation,Inpatient,Diagnostic imaging,347.67,100,Yes,2024-02-09
+T0072,A0128,Physical Therapy,Inpatient,Basic screening,371.79,0,No,2023-10-30
+T0073,A0130,Ultrasound,Surgery,Specialist review,511.33,100,Yes,2023-07-12
+T0074,A0133,Consultation,Inpatient,Diagnostic imaging,352.86,0,Yes,2024-03-28
+T0075,A0136,X-Ray,Outpatient,Diagnostic imaging,566.37,0,Yes,2023-12-17
+T0076,A0138,Minor Surgery,Outpatient,Basic screening,5708.01,100,Yes,2023-09-17
+T0077,A0139,CT Scan,Outpatient,Diagnostic imaging,3475.52,0,Yes,2024-11-06
+T0078,A0141,Minor Surgery,Surgery,Routine test,4398.09,100,No,2024-02-26
+T0079,A0142,Chemotherapy,Outpatient,Advanced protocol,5960.32,70,Yes,2023-03-22
+T0080,A0144,Chemotherapy,Inpatient,Follow-up assessment,5378.09,50,No,2023-12-18
+T0081,A0145,Vaccination,Inpatient,Standard procedure,179.29,0,Yes,2023-10-01
+T0082,A0147,Vaccination,Inpatient,Diagnostic imaging,164.9,100,Yes,2024-06-03
+T0083,A0149,X-Ray,Inpatient,Diagnostic imaging,491.18,50,No,2024-12-03
+T0084,A0150,MRI,Outpatient,Standard procedure,3501.69,0,Yes,2023-01-01
+T0085,A0151,Physical Therapy,Inpatient,Standard procedure,389.76,50,No,2023-07-01
+T0086,A0154,Ultrasound,Inpatient,Routine test,588.04,70,Yes,2024-09-10
+T0087,A0157,Medication Review,Outpatient,Specialist review,228.37,100,No,2024-11-16
+T0088,A0159,Medication Review,Inpatient,Basic screening,221.0,50,No,2023-02-11
+T0089,A0160,X-Ray,Inpatient,Basic screening,602.44,100,Yes,2024-10-19
+T0090,A0161,Chemotherapy,Outpatient,Standard procedure,6233.32,100,Yes,2023-03-24
+T0091,A0162,Physical Therapy,Outpatient,Advanced protocol,359.14,70,No,2023-01-23
+T0092,A0163,Chemotherapy,Outpatient,Specialist review,6811.79,0,Yes,2023-04-15
+T0093,A0164,Medication Review,Outpatient,Follow-up assessment,230.86,70,Yes,2023-09-22
+T0094,A0168,Consultation,Outpatient,Standard procedure,322.35,50,No,2024-06-13
+T0095,A0169,MRI,Outpatient,Routine test,4633.55,80,No,2024-02-24
+T0096,A0171,Ultrasound,Inpatient,Basic screening,628.51,0,Yes,2023-05-21
+T0097,A0173,MRI,Inpatient,Diagnostic imaging,4236.37,0,No,2024-02-16
+T0098,A0174,CT Scan,Outpatient,Diagnostic imaging,3063.05,50,No,2024-07-19
+T0099,A0178,MRI,Inpatient,Basic screening,3440.67,70,No,2023-12-31
+T0100,A0180,Consultation,Inpatient,Standard procedure,267.95,50,Yes,2023-03-28
+T0101,A0182,Medication Review,Outpatient,Basic screening,172.51,70,No,2024-02-03
+T0102,A0183,CT Scan,Inpatient,Routine test,3313.69,50,Yes,2024-02-16
+T0103,A0184,MRI,Outpatient,Specialist review,3902.97,50,No,2023-01-16
+T0104,A0185,Consultation,Outpatient,Advanced protocol,316.03,70,No,2024-01-14
+T0105,A0186,Medication Review,Outpatient,Specialist review,242.61,50,No,2024-03-06
+T0106,A0187,MRI,Outpatient,Specialist review,3798.87,0,No,2024-01-27
+T0107,A0189,Consultation,Inpatient,Specialist review,304.25,80,Yes,2024-03-05
+T0108,A0195,Blood Test,Inpatient,Specialist review,288.06,80,No,2024-02-11
+T0109,A0199,Chemotherapy,Inpatient,Specialist review,5649.12,50,Yes,2024-12-10
+T0110,A0200,Consultation,Inpatient,Routine test,264.24,50,No,2023-06-10
+T0111,A0202,Physical Therapy,Inpatient,Standard procedure,386.36,0,No,2024-04-25
+T0112,A0204,Physical Therapy,Inpatient,Routine test,365.8,100,No,2024-02-07
+T0113,A0205,Medication Review,Inpatient,Specialist review,244.38,100,No,2023-12-16
+T0114,A0206,Consultation,Outpatient,Basic screening,351.97,70,Yes,2024-09-03
+T0115,A0208,CT Scan,Outpatient,Standard procedure,3310.08,0,Yes,2023-11-06
+T0116,A0210,CT Scan,Inpatient,Follow-up assessment,3595.75,70,No,2024-12-04
+T0117,A0211,Minor Surgery,Inpatient,Diagnostic imaging,5857.34,100,Yes,2023-04-06
+T0118,A0214,Minor Surgery,Outpatient,Diagnostic imaging,4623.14,50,No,2024-04-03
+T0119,A0215,Consultation,Outpatient,Routine test,362.11,80,Yes,2023-06-08
+T0120,A0217,Ultrasound,Inpatient,Specialist review,639.44,100,Yes,2024-12-23
+T0121,A0218,Physical Therapy,Outpatient,Follow-up assessment,469.19,0,No,2023-09-16
+T0122,A0219,CT Scan,Outpatient,Standard procedure,3625.31,0,No,2023-06-22
+T0123,A0220,Ultrasound,Inpatient,Standard procedure,586.32,80,No,2024-01-27
+T0124,A0221,Minor Surgery,Outpatient,Routine test,4470.1,70,Yes,2023-04-19
+T0125,A0223,Blood Test,Surgery,Follow-up assessment,235.29,80,Yes,2024-11-06
+T0126,A0224,CT Scan,Outpatient,Diagnostic imaging,3062.53,70,No,2024-12-30
+T0127,A0226,Ultrasound,Outpatient,Specialist review,706.32,0,No,2023-08-15
+T0128,A0229,Chemotherapy,Outpatient,Advanced protocol,7165.75,80,No,2023-10-22
+T0129,A0230,Vaccination,Surgery,Follow-up assessment,127.92,80,Yes,2023-09-11
+T0130,A0231,Ultrasound,Inpatient,Follow-up assessment,632.58,50,Yes,2024-07-27
+T0131,A0234,Chemotherapy,Outpatient,Diagnostic imaging,6101.79,100,No,2024-11-28
+T0132,A0236,X-Ray,Inpatient,Specialist review,469.42,50,No,2023-03-02
+T0133,A0237,Blood Test,Inpatient,Specialist review,224.49,50,Yes,2023-06-14
+T0134,A0238,Consultation,Inpatient,Basic screening,295.51,50,No,2024-09-17
+T0135,A0242,CT Scan,Outpatient,Specialist review,3681.49,0,No,2024-03-23
+T0136,A0244,Minor Surgery,Inpatient,Routine test,4896.41,100,Yes,2024-11-29
+T0137,A0247,Minor Surgery,Surgery,Follow-up assessment,5287.58,80,Yes,2024-09-29
+T0138,A0248,MRI,Surgery,Routine test,4524.83,0,Yes,2024-01-19
+T0139,A0249,Minor Surgery,Outpatient,Advanced protocol,4977.26,50,No,2024-01-31
+T0140,A0252,Consultation,Outpatient,Diagnostic imaging,371.61,50,Yes,2024-04-24
+T0141,A0253,Vaccination,Inpatient,Advanced protocol,185.25,80,No,2023-07-24
+T0142,A0255,Vaccination,Inpatient,Diagnostic imaging,142.61,100,No,2024-05-27
+T0143,A0256,Ultrasound,Inpatient,Follow-up assessment,629.34,50,No,2024-03-21
+T0144,A0257,Vaccination,Outpatient,Standard procedure,145.55,50,No,2024-10-11
+T0145,A0259,Ultrasound,Inpatient,Follow-up assessment,578.36,50,No,2023-08-14
+T0146,A0260,Vaccination,Inpatient,Basic screening,129.71,70,Yes,2024-02-29
+T0147,A0261,Chemotherapy,Inpatient,Standard procedure,6562.95,70,Yes,2024-01-17
+T0148,A0263,MRI,Inpatient,Advanced protocol,4204.29,50,No,2024-02-09
+T0149,A0268,MRI,Outpatient,Routine test,3482.37,50,Yes,2024-04-15
+T0150,A0271,Minor Surgery,Inpatient,Follow-up assessment,4807.29,70,No,2023-11-09
+T0151,A0275,Minor Surgery,Inpatient,Basic screening,6066.53,50,No,2024-01-27
+T0152,A0279,Minor Surgery,Outpatient,Specialist review,4729.12,100,Yes,2023-12-13
+T0153,A0280,CT Scan,Outpatient,Follow-up assessment,2723.87,80,Yes,2023-07-18
+T0154,A0282,Physical Therapy,Inpatient,Standard procedure,418.31,80,No,2023-06-08
+T0155,A0285,Ultrasound,Outpatient,Routine test,746.56,100,Yes,2024-09-29
+T0156,A0286,Vaccination,Surgery,Advanced protocol,142.02,70,No,2024-04-25
+T0157,A0287,Vaccination,Outpatient,Basic screening,167.83,80,No,2023-12-28
+T0158,A0288,Medication Review,Outpatient,Routine test,230.93,80,Yes,2023-09-16
+T0159,A0289,Vaccination,Outpatient,Advanced protocol,141.76,100,Yes,2024-04-10
+T0160,A0292,Minor Surgery,Inpatient,Diagnostic imaging,5706.43,100,Yes,2024-01-19
+T0161,A0293,X-Ray,Outpatient,Routine test,498.56,80,Yes,2024-08-03
+T0162,A0295,Vaccination,Surgery,Advanced protocol,165.44,0,No,2024-01-31
+T0163,A0297,Minor Surgery,Outpatient,Standard procedure,5517.06,50,No,2024-05-04
+T0164,A0298,Physical Therapy,Outpatient,Standard procedure,425.72,80,No,2024-04-07
+T0165,A0300,Minor Surgery,Outpatient,Standard procedure,4430.58,0,No,2024-10-05
+T0166,A0301,Consultation,Inpatient,Routine test,355.24,100,Yes,2023-01-11
+T0167,A0303,Physical Therapy,Outpatient,Advanced protocol,391.32,0,Yes,2023-12-11
+T0168,A0304,Consultation,Inpatient,Advanced protocol,277.38,50,Yes,2023-01-30
+T0169,A0305,CT Scan,Outpatient,Advanced protocol,2598.93,50,Yes,2023-01-04
+T0170,A0308,Vaccination,Outpatient,Routine test,162.95,0,Yes,2024-04-08
+T0171,A0309,Vaccination,Inpatient,Routine test,168.15,70,No,2023-04-16
+T0172,A0310,MRI,Surgery,Diagnostic imaging,3426.54,100,Yes,2023-01-13
+T0173,A0311,MRI,Surgery,Standard procedure,4219.35,0,Yes,2023-01-02
+T0174,A0313,Chemotherapy,Inpatient,Diagnostic imaging,5643.59,80,No,2024-08-03
+T0175,A0314,Blood Test,Inpatient,Basic screening,277.02,100,Yes,2024-11-15
+T0176,A0316,X-Ray,Outpatient,Routine test,459.87,70,Yes,2024-07-18
+T0177,A0318,CT Scan,Inpatient,Specialist review,3379.13,0,No,2023-03-11
+T0178,A0320,Ultrasound,Inpatient,Follow-up assessment,602.82,70,Yes,2024-05-29
+T0179,A0321,Ultrasound,Outpatient,Routine test,734.82,70,Yes,2023-07-05
+T0180,A0323,Minor Surgery,Outpatient,Specialist review,4525.04,80,Yes,2023-02-24
+T0181,A0327,Minor Surgery,Surgery,Standard procedure,4932.13,80,Yes,2024-10-01
+T0182,A0330,Minor Surgery,Outpatient,Advanced protocol,4476.95,100,No,2023-05-07
+T0183,A0331,CT Scan,Inpatient,Specialist review,3659.63,100,No,2023-11-26
+T0184,A0332,Vaccination,Outpatient,Follow-up assessment,180.14,100,No,2024-07-01
+T0185,A0333,Physical Therapy,Inpatient,Specialist review,381.27,50,Yes,2024-08-19
+T0186,A0334,Chemotherapy,Inpatient,Follow-up assessment,6683.96,50,No,2024-05-23
+T0187,A0336,CT Scan,Outpatient,Diagnostic imaging,3530.67,80,No,2024-01-07
+T0188,A0337,Consultation,Inpatient,Follow-up assessment,321.62,70,Yes,2024-12-04
+T0189,A0338,Vaccination,Inpatient,Advanced protocol,159.28,70,No,2023-01-25
+T0190,A0342,Physical Therapy,Outpatient,Standard procedure,378.7,100,No,2023-12-19
+T0191,A0343,Ultrasound,Inpatient,Basic screening,532.34,100,Yes,2023-07-07
+T0192,A0345,X-Ray,Outpatient,Advanced protocol,604.44,80,No,2024-08-12
+T0193,A0346,Ultrasound,Outpatient,Specialist review,726.1,50,No,2023-07-28
+T0194,A0347,Medication Review,Outpatient,Routine test,220.65,80,No,2024-02-21
+T0195,A0348,Consultation,Outpatient,Basic screening,295.68,70,Yes,2024-01-17
+T0196,A0349,Minor Surgery,Outpatient,Routine test,4948.42,50,No,2024-12-11
+T0197,A0350,Medication Review,Outpatient,Diagnostic imaging,228.08,70,No,2023-04-14
+T0198,A0353,Ultrasound,Inpatient,Diagnostic imaging,725.31,70,No,2023-10-25
+T0199,A0354,Ultrasound,Outpatient,Standard procedure,722.9,70,No,2023-12-12
+T0200,A0357,Chemotherapy,Inpatient,Standard procedure,6971.7,70,Yes,2023-01-03
+T0201,A0359,X-Ray,Inpatient,Routine test,553.41,50,No,2023-07-21
+T0202,A0361,X-Ray,Surgery,Routine test,441.83,100,Yes,2024-03-24
+T0203,A0362,Blood Test,Inpatient,Advanced protocol,228.66,80,No,2024-05-27
+T0204,A0364,CT Scan,Inpatient,Specialist review,3628.27,100,No,2024-09-18
+T0205,A0368,X-Ray,Outpatient,Specialist review,546.29,50,No,2023-04-10
+T0206,A0370,Blood Test,Inpatient,Standard procedure,213.42,50,No,2023-09-19
+T0207,A0371,Consultation,Outpatient,Routine test,267.18,100,Yes,2023-03-24
+T0208,A0372,Chemotherapy,Inpatient,Basic screening,6692.4,0,No,2024-08-01
+T0209,A0374,MRI,Outpatient,Routine test,3408.1,80,Yes,2023-04-26
+T0210,A0375,Consultation,Inpatient,Diagnostic imaging,274.3,70,No,2024-01-30
+T0211,A0376,Vaccination,Inpatient,Follow-up assessment,160.42,70,Yes,2024-12-28
+T0212,A0379,Consultation,Outpatient,Standard procedure,338.03,80,Yes,2024-11-08
+T0213,A0384,X-Ray,Inpatient,Follow-up assessment,555.39,80,Yes,2023-10-09
+T0214,A0385,CT Scan,Inpatient,Routine test,2819.12,0,Yes,2024-01-09
+T0215,A0386,MRI,Outpatient,Specialist review,4539.49,100,No,2024-11-02
+T0216,A0387,X-Ray,Outpatient,Advanced protocol,472.45,0,No,2024-07-04
+T0217,A0390,CT Scan,Inpatient,Diagnostic imaging,2940.48,100,Yes,2024-10-27
+T0218,A0391,Ultrasound,Inpatient,Follow-up assessment,689.16,80,No,2023-10-02
+T0219,A0392,Chemotherapy,Outpatient,Specialist review,6659.12,100,No,2024-11-12
+T0220,A0394,Chemotherapy,Outpatient,Diagnostic imaging,7138.14,100,Yes,2023-09-01
+T0221,A0395,CT Scan,Outpatient,Routine test,3339.14,0,Yes,2024-02-22
+T0222,A0396,Medication Review,Outpatient,Advanced protocol,215.46,70,Yes,2024-07-29
+T0223,A0397,MRI,Outpatient,Advanced protocol,3549.88,50,Yes,2024-08-16
+T0224,A0401,MRI,Outpatient,Basic screening,3988.35,80,No,2024-05-21
+T0225,A0402,CT Scan,Outpatient,Follow-up assessment,2868.24,70,Yes,2024-09-11
+T0226,A0407,Blood Test,Outpatient,Standard procedure,236.9,70,No,2023-02-01
+T0227,A0409,X-Ray,Surgery,Routine test,619.6,50,No,2023-06-13
+T0228,A0410,Medication Review,Outpatient,Diagnostic imaging,201.45,50,No,2024-02-09
+T0229,A0411,X-Ray,Outpatient,Diagnostic imaging,603.41,50,Yes,2024-02-23
+T0230,A0413,Chemotherapy,Outpatient,Specialist review,6614.73,50,Yes,2023-02-08
+T0231,A0414,Consultation,Inpatient,Advanced protocol,350.38,70,No,2024-04-29
+T0232,A0419,Vaccination,Outpatient,Basic screening,157.66,80,No,2024-11-10
+T0233,A0420,Minor Surgery,Outpatient,Standard procedure,5403.81,100,No,2023-01-24
+T0234,A0422,Vaccination,Outpatient,Basic screening,157.05,100,Yes,2023-06-13
+T0235,A0423,Minor Surgery,Surgery,Routine test,4640.49,70,No,2024-03-18
+T0236,A0424,Consultation,Outpatient,Basic screening,341.69,50,Yes,2023-06-24
+T0237,A0425,Medication Review,Outpatient,Specialist review,192.46,70,Yes,2024-04-18
+T0238,A0426,MRI,Outpatient,Follow-up assessment,3438.91,100,No,2023-04-15
+T0239,A0428,Chemotherapy,Inpatient,Advanced protocol,6649.13,100,No,2024-12-03
+T0240,A0429,Medication Review,Outpatient,Specialist review,184.17,80,Yes,2023-08-21
+T0241,A0430,Vaccination,Inpatient,Standard procedure,183.93,80,No,2024-05-19
+T0242,A0431,Physical Therapy,Inpatient,Routine test,492.63,0,Yes,2024-02-11
+T0243,A0434,Physical Therapy,Inpatient,Follow-up assessment,486.38,80,No,2023-04-17
+T0244,A0436,Medication Review,Inpatient,Follow-up assessment,199.61,100,Yes,2023-12-05
+T0245,A0438,Vaccination,Outpatient,Basic screening,128.43,70,No,2023-04-15
+T0246,A0439,Physical Therapy,Inpatient,Basic screening,488.53,80,Yes,2023-09-20
+T0247,A0443,Medication Review,Outpatient,Specialist review,204.25,100,No,2024-02-13
+T0248,A0444,Minor Surgery,Inpatient,Basic screening,6183.31,50,No,2024-04-21
+T0249,A0447,CT Scan,Inpatient,Specialist review,3706.34,80,No,2024-01-22
+T0250,A0452,Consultation,Inpatient,Advanced protocol,357.36,70,Yes,2024-03-01
+T0251,A0453,Chemotherapy,Outpatient,Follow-up assessment,5806.68,80,Yes,2023-01-10
+T0252,A0454,Consultation,Inpatient,Routine test,301.21,100,Yes,2023-11-19
+T0253,A0456,MRI,Outpatient,Standard procedure,4761.82,100,Yes,2024-02-04
+T0254,A0457,Ultrasound,Outpatient,Follow-up assessment,586.06,0,Yes,2023-06-22
+T0255,A0459,X-Ray,Outpatient,Follow-up assessment,458.9,0,Yes,2024-12-03
+T0256,A0461,Vaccination,Inpatient,Routine test,160.91,70,No,2023-04-19
+T0257,A0462,Minor Surgery,Outpatient,Specialist review,6122.31,80,No,2024-08-20
+T0258,A0467,Blood Test,Inpatient,Follow-up assessment,282.1,100,Yes,2023-12-02
+T0259,A0468,Minor Surgery,Inpatient,Advanced protocol,5390.12,100,Yes,2023-01-31
+T0260,A0469,X-Ray,Outpatient,Standard procedure,444.44,80,No,2024-03-07
+T0261,A0471,Ultrasound,Inpatient,Standard procedure,657.6,0,No,2023-09-23
+T0262,A0472,Chemotherapy,Inpatient,Specialist review,7476.13,100,No,2024-01-20
+T0263,A0473,MRI,Outpatient,Follow-up assessment,3624.13,100,No,2023-09-27
+T0264,A0475,Physical Therapy,Surgery,Standard procedure,422.93,100,No,2023-01-17
+T0265,A0477,Vaccination,Inpatient,Standard procedure,180.14,50,Yes,2023-08-23
+T0266,A0480,CT Scan,Outpatient,Follow-up assessment,3438.92,50,No,2023-10-09
+T0267,A0481,Consultation,Outpatient,Standard procedure,338.64,80,No,2024-05-25
+T0268,A0483,Minor Surgery,Outpatient,Routine test,5654.97,50,No,2024-12-19
+T0269,A0485,Consultation,Inpatient,Advanced protocol,298.14,100,No,2024-10-07
+T0270,A0486,X-Ray,Inpatient,Specialist review,483.72,80,Yes,2024-08-11
+T0271,A0489,Ultrasound,Outpatient,Follow-up assessment,704.25,0,Yes,2023-06-23
+T0272,A0491,Minor Surgery,Inpatient,Specialist review,5870.23,50,Yes,2024-01-27
+T0273,A0492,Vaccination,Outpatient,Specialist review,179.52,70,No,2023-10-09
+T0274,A0493,CT Scan,Outpatient,Routine test,3645.89,80,Yes,2024-03-17
+T0275,A0495,Physical Therapy,Inpatient,Specialist review,421.81,100,No,2024-05-01
+T0276,A0496,Physical Therapy,Inpatient,Routine test,420.24,80,Yes,2023-12-26
+T0277,A0497,CT Scan,Inpatient,Basic screening,3507.95,50,No,2024-07-22
+T0278,A0498,Blood Test,Inpatient,Routine test,277.5,0,No,2023-08-15
+T0279,A0504,X-Ray,Inpatient,Specialist review,565.39,0,No,2023-08-16
+T0280,A0506,MRI,Outpatient,Routine test,4673.27,70,Yes,2024-02-25
+T0281,A0507,Consultation,Outpatient,Standard procedure,361.8,0,No,2024-11-14
+T0282,A0510,Physical Therapy,Inpatient,Standard procedure,394.08,80,Yes,2023-02-21
+T0283,A0511,Blood Test,Outpatient,Diagnostic imaging,250.06,80,Yes,2024-05-16
+T0284,A0514,MRI,Outpatient,Advanced protocol,3550.37,0,No,2023-05-30
+T0285,A0515,CT Scan,Inpatient,Routine test,3243.94,50,No,2024-03-13
+T0286,A0517,CT Scan,Outpatient,Advanced protocol,2593.13,50,No,2023-12-13
+T0287,A0519,Medication Review,Inpatient,Standard procedure,207.25,80,No,2024-11-12
+T0288,A0523,Medication Review,Outpatient,Basic screening,213.41,80,No,2023-03-17
+T0289,A0524,Medication Review,Outpatient,Diagnostic imaging,192.92,50,Yes,2024-12-11
+T0290,A0525,Vaccination,Inpatient,Standard procedure,162.95,100,No,2024-06-03
+T0291,A0527,Medication Review,Inpatient,Follow-up assessment,172.44,70,No,2023-12-06
+T0292,A0529,Chemotherapy,Inpatient,Advanced protocol,5189.64,80,No,2023-04-02
+T0293,A0530,X-Ray,Inpatient,Advanced protocol,589.52,80,No,2023-03-17
+T0294,A0531,CT Scan,Inpatient,Standard procedure,2982.23,70,Yes,2024-10-24
+T0295,A0532,Medication Review,Outpatient,Follow-up assessment,180.16,70,Yes,2023-11-16
+T0296,A0534,CT Scan,Outpatient,Specialist review,3176.69,0,No,2024-08-24
+T0297,A0535,Chemotherapy,Inpatient,Specialist review,6947.98,50,No,2023-05-05
+T0298,A0536,Blood Test,Surgery,Routine test,234.08,50,No,2023-10-15
+T0299,A0537,Medication Review,Outpatient,Specialist review,219.83,50,Yes,2024-12-05
+T0300,A0538,Medication Review,Outpatient,Routine test,176.83,0,No,2023-10-22
+T0301,A0539,Vaccination,Surgery,Basic screening,130.6,100,No,2023-02-23
+T0302,A0541,MRI,Outpatient,Basic screening,4250.17,70,No,2024-02-16
+T0303,A0544,Minor Surgery,Inpatient,Advanced protocol,5331.27,50,Yes,2024-11-18
+T0304,A0545,Ultrasound,Inpatient,Standard procedure,662.98,100,No,2024-10-16
+T0305,A0549,MRI,Outpatient,Standard procedure,4561.75,80,No,2024-01-03
+T0306,A0550,Physical Therapy,Outpatient,Specialist review,496.14,0,No,2024-09-11
+T0307,A0552,X-Ray,Inpatient,Advanced protocol,528.26,50,No,2024-02-28
+T0308,A0554,Ultrasound,Outpatient,Standard procedure,587.51,0,No,2024-05-27
+T0309,A0555,Consultation,Outpatient,Standard procedure,350.42,100,Yes,2023-04-18
+T0310,A0556,Vaccination,Outpatient,Standard procedure,143.75,70,No,2023-05-01
+T0311,A0561,Medication Review,Surgery,Standard procedure,205.12,0,Yes,2023-01-13
+T0312,A0563,Vaccination,Outpatient,Basic screening,132.21,100,No,2023-02-25
+T0313,A0568,CT Scan,Inpatient,Advanced protocol,2580.42,0,No,2023-08-29
+T0314,A0570,Chemotherapy,Outpatient,Routine test,7410.36,80,Yes,2024-09-26
+T0315,A0571,MRI,Outpatient,Basic screening,4737.57,0,No,2023-03-04
+T0316,A0573,Vaccination,Surgery,Basic screening,169.26,0,Yes,2024-07-14
+T0317,A0574,Ultrasound,Inpatient,Advanced protocol,608.15,80,No,2023-12-25
+T0318,A0575,Physical Therapy,Surgery,Routine test,367.73,100,No,2023-09-08
+T0319,A0577,CT Scan,Inpatient,Routine test,2737.72,50,No,2023-12-25
+T0320,A0578,Medication Review,Surgery,Basic screening,190.02,80,No,2023-11-30
+T0321,A0581,Chemotherapy,Inpatient,Basic screening,6418.14,70,Yes,2023-10-06
+T0322,A0583,Vaccination,Inpatient,Follow-up assessment,170.38,50,No,2023-01-01
+T0323,A0584,X-Ray,Outpatient,Routine test,557.04,70,No,2023-03-15
+T0324,A0586,Consultation,Inpatient,Follow-up assessment,288.59,70,Yes,2023-03-09
+T0325,A0587,X-Ray,Outpatient,Specialist review,615.97,80,Yes,2023-02-03
+T0326,A0588,Medication Review,Inpatient,Advanced protocol,229.03,100,Yes,2024-04-23
+T0327,A0589,Consultation,Outpatient,Specialist review,321.52,70,Yes,2023-10-24
+T0328,A0591,MRI,Inpatient,Specialist review,4378.75,100,Yes,2023-12-17
+T0329,A0594,X-Ray,Inpatient,Specialist review,508.92,100,Yes,2024-12-01
+T0330,A0595,CT Scan,Inpatient,Advanced protocol,2847.28,50,No,2024-01-30
+T0331,A0596,MRI,Outpatient,Specialist review,3969.56,100,Yes,2023-02-17
+T0332,A0597,Chemotherapy,Outpatient,Specialist review,6918.83,50,Yes,2023-01-11
+T0333,A0598,Ultrasound,Outpatient,Standard procedure,513.45,50,Yes,2023-06-25
+T0334,A0600,Medication Review,Inpatient,Specialist review,179.29,0,Yes,2024-01-02
+T0335,A0601,Consultation,Surgery,Standard procedure,260.52,50,No,2024-02-29
+T0336,A0602,Consultation,Outpatient,Advanced protocol,259.89,70,Yes,2024-07-02
+T0337,A0608,MRI,Outpatient,Routine test,4768.74,80,Yes,2023-06-13
+T0338,A0609,X-Ray,Inpatient,Follow-up assessment,565.73,80,No,2023-05-21
+T0339,A0611,Ultrasound,Outpatient,Diagnostic imaging,623.8,0,No,2023-09-05
+T0340,A0612,Ultrasound,Outpatient,Advanced protocol,533.48,100,Yes,2024-05-02
+T0341,A0613,Medication Review,Surgery,Diagnostic imaging,209.33,70,No,2024-02-22
+T0342,A0615,Medication Review,Inpatient,Basic screening,207.88,0,No,2023-11-06
+T0343,A0617,Minor Surgery,Inpatient,Follow-up assessment,4596.4,0,No,2024-09-19
+T0344,A0618,Vaccination,Outpatient,Basic screening,153.53,0,No,2024-12-20
+T0345,A0620,CT Scan,Outpatient,Advanced protocol,3028.21,0,Yes,2023-06-07
+T0346,A0622,Chemotherapy,Inpatient,Diagnostic imaging,6578.04,100,No,2023-02-26
+T0347,A0623,Minor Surgery,Outpatient,Diagnostic imaging,5520.19,100,No,2023-03-26
+T0348,A0626,Vaccination,Inpatient,Diagnostic imaging,130.22,100,No,2023-04-27
+T0349,A0628,X-Ray,Outpatient,Specialist review,499.92,0,Yes,2023-05-22
+T0350,A0629,Minor Surgery,Outpatient,Follow-up assessment,5501.72,50,No,2024-02-05
+T0351,A0630,Physical Therapy,Inpatient,Specialist review,420.5,80,No,2023-05-29
+T0352,A0631,Minor Surgery,Outpatient,Routine test,5962.98,0,No,2024-11-20
+T0353,A0634,Minor Surgery,Outpatient,Standard procedure,5567.39,70,No,2023-02-21
+T0354,A0635,MRI,Inpatient,Routine test,3660.7,80,Yes,2024-04-24
+T0355,A0637,X-Ray,Inpatient,Specialist review,439.11,0,Yes,2024-06-03
+T0356,A0638,Minor Surgery,Inpatient,Basic screening,5534.84,70,Yes,2023-03-22
+T0357,A0639,Ultrasound,Outpatient,Basic screening,516.36,100,No,2023-02-04
+T0358,A0642,Medication Review,Outpatient,Basic screening,216.86,80,No,2023-11-11
+T0359,A0646,Medication Review,Outpatient,Specialist review,245.22,80,Yes,2024-12-07
+T0360,A0650,Chemotherapy,Inpatient,Diagnostic imaging,6481.14,70,No,2023-08-02
+T0361,A0653,X-Ray,Outpatient,Diagnostic imaging,502.63,100,Yes,2023-01-11
+T0362,A0654,MRI,Inpatient,Routine test,4429.26,80,Yes,2024-08-06
+T0363,A0656,X-Ray,Inpatient,Standard procedure,516.65,100,No,2024-02-02
+T0364,A0657,X-Ray,Outpatient,Specialist review,534.12,70,Yes,2023-12-30
+T0365,A0658,Minor Surgery,Inpatient,Specialist review,6132.93,100,Yes,2024-08-13
+T0366,A0659,CT Scan,Outpatient,Routine test,3013.32,70,Yes,2024-04-07
+T0367,A0660,MRI,Inpatient,Standard procedure,4937.9,70,No,2024-04-28
+T0368,A0662,Physical Therapy,Inpatient,Basic screening,484.86,50,Yes,2024-02-26
+T0369,A0663,CT Scan,Inpatient,Routine test,2784.95,80,Yes,2023-11-03
+T0370,A0665,MRI,Outpatient,Routine test,3510.98,0,Yes,2023-02-03
+T0371,A0666,Ultrasound,Inpatient,Advanced protocol,534.19,80,No,2023-10-10
+T0372,A0670,Vaccination,Outpatient,Standard procedure,128.59,50,No,2023-09-18
+T0373,A0675,Chemotherapy,Inpatient,Routine test,5326.66,70,Yes,2024-02-28
+T0374,A0676,Consultation,Inpatient,Advanced protocol,336.96,50,Yes,2023-12-28
+T0375,A0679,Medication Review,Outpatient,Basic screening,175.7,70,No,2023-09-29
+T0376,A0681,Medication Review,Surgery,Follow-up assessment,195.52,80,No,2024-02-09
+T0377,A0683,Minor Surgery,Surgery,Standard procedure,5939.75,50,Yes,2023-10-27
+T0378,A0684,Physical Therapy,Outpatient,Follow-up assessment,343.72,0,No,2024-07-01
+T0379,A0685,Medication Review,Inpatient,Routine test,235.16,100,No,2024-05-19
+T0380,A0687,Ultrasound,Outpatient,Routine test,577.65,70,Yes,2023-05-14
+T0381,A0688,Blood Test,Outpatient,Follow-up assessment,224.32,100,Yes,2024-02-07
+T0382,A0689,Consultation,Inpatient,Advanced protocol,338.61,70,Yes,2023-07-21
+T0383,A0692,MRI,Inpatient,Specialist review,4406.31,70,No,2023-01-07
+T0384,A0693,Physical Therapy,Outpatient,Basic screening,480.4,0,No,2023-02-04
+T0385,A0694,Minor Surgery,Outpatient,Advanced protocol,5720.14,50,No,2024-03-23
+T0386,A0695,Ultrasound,Outpatient,Routine test,702.84,50,No,2024-08-28
+T0387,A0696,X-Ray,Inpatient,Follow-up assessment,481.41,0,No,2023-02-15
+T0388,A0697,Consultation,Inpatient,Follow-up assessment,276.29,0,No,2023-05-02
+T0389,A0698,CT Scan,Inpatient,Follow-up assessment,3450.74,100,No,2023-05-13
+T0390,A0699,Medication Review,Inpatient,Follow-up assessment,234.55,70,Yes,2023-04-24
+T0391,A0700,Minor Surgery,Inpatient,Basic screening,6231.01,70,Yes,2023-03-29
+T0392,A0702,CT Scan,Outpatient,Follow-up assessment,3045.14,70,Yes,2024-12-06
+T0393,A0703,Minor Surgery,Outpatient,Specialist review,4994.04,0,Yes,2023-11-10
+T0394,A0704,Minor Surgery,Inpatient,Diagnostic imaging,5802.83,80,Yes,2023-11-16
+T0395,A0707,Minor Surgery,Inpatient,Specialist review,4931.61,70,No,2024-09-26
+T0396,A0708,Blood Test,Outpatient,Standard procedure,305.58,50,Yes,2023-01-10
+T0397,A0709,Ultrasound,Inpatient,Routine test,716.02,0,Yes,2023-01-12
+T0398,A0713,Physical Therapy,Outpatient,Standard procedure,408.64,50,Yes,2023-01-10
+T0399,A0717,X-Ray,Inpatient,Advanced protocol,575.17,70,Yes,2024-08-21
+T0400,A0719,MRI,Outpatient,Diagnostic imaging,4607.27,50,Yes,2024-05-24
+T0401,A0720,MRI,Outpatient,Specialist review,3565.0,80,No,2024-02-18
+T0402,A0721,CT Scan,Outpatient,Specialist review,3633.06,100,No,2023-06-14
+T0403,A0723,Medication Review,Inpatient,Diagnostic imaging,210.42,100,No,2024-02-05
+T0404,A0725,Medication Review,Outpatient,Standard procedure,236.12,50,No,2023-01-06
+T0405,A0726,X-Ray,Inpatient,Follow-up assessment,489.01,80,No,2024-03-22
+T0406,A0727,Chemotherapy,Outpatient,Diagnostic imaging,7249.26,0,No,2024-12-14
+T0407,A0728,Ultrasound,Outpatient,Basic screening,603.41,70,No,2023-01-23
+T0408,A0729,Vaccination,Inpatient,Basic screening,128.15,0,No,2023-09-13
+T0409,A0730,Chemotherapy,Outpatient,Basic screening,7272.92,0,No,2024-10-28
+T0410,A0735,Vaccination,Outpatient,Diagnostic imaging,132.98,100,Yes,2024-02-20
+T0411,A0736,Vaccination,Inpatient,Specialist review,146.66,100,Yes,2023-07-24
+T0412,A0737,Physical Therapy,Outpatient,Diagnostic imaging,492.01,80,Yes,2024-10-03
+T0413,A0738,Consultation,Inpatient,Follow-up assessment,369.07,0,No,2023-03-22
+T0414,A0740,X-Ray,Inpatient,Diagnostic imaging,539.69,50,Yes,2023-02-07
+T0415,A0741,Blood Test,Outpatient,Routine test,275.68,80,No,2024-12-20
+T0416,A0742,Ultrasound,Outpatient,Diagnostic imaging,617.63,100,Yes,2023-09-19
+T0417,A0747,Physical Therapy,Outpatient,Standard procedure,386.91,70,No,2024-05-01
+T0418,A0748,Minor Surgery,Inpatient,Specialist review,4907.33,70,Yes,2024-10-22
+T0419,A0749,Medication Review,Inpatient,Routine test,223.8,70,Yes,2024-11-02
+T0420,A0750,Physical Therapy,Inpatient,Basic screening,460.38,100,No,2024-09-06
+T0421,A0751,Chemotherapy,Inpatient,Standard procedure,6999.79,100,Yes,2023-10-07
+T0422,A0752,Physical Therapy,Inpatient,Basic screening,466.34,100,Yes,2024-02-21
+T0423,A0753,Physical Therapy,Outpatient,Standard procedure,354.59,80,Yes,2023-06-14
+T0424,A0754,CT Scan,Inpatient,Routine test,3143.3,0,No,2023-04-28
+T0425,A0755,Ultrasound,Outpatient,Follow-up assessment,523.81,70,Yes,2023-12-18
+T0426,A0757,Medication Review,Inpatient,Routine test,213.96,100,Yes,2023-10-15
+T0427,A0760,Medication Review,Inpatient,Routine test,205.32,80,No,2024-04-10
+T0428,A0761,Consultation,Inpatient,Standard procedure,361.52,70,Yes,2024-11-02
+T0429,A0762,Blood Test,Inpatient,Standard procedure,247.59,80,Yes,2023-09-07
+T0430,A0765,Blood Test,Inpatient,Advanced protocol,224.21,50,Yes,2024-04-01
+T0431,A0767,Chemotherapy,Outpatient,Specialist review,5443.18,0,Yes,2023-12-24
+T0432,A0768,Medication Review,Surgery,Standard procedure,230.92,100,Yes,2024-03-28
+T0433,A0770,CT Scan,Outpatient,Follow-up assessment,3291.86,50,Yes,2023-06-17
+T0434,A0772,MRI,Inpatient,Specialist review,3561.8,100,Yes,2024-04-27
+T0435,A0774,Vaccination,Outpatient,Basic screening,132.55,80,No,2023-05-25
+T0436,A0778,Medication Review,Inpatient,Routine test,226.08,50,No,2023-03-08
+T0437,A0780,CT Scan,Inpatient,Standard procedure,2637.32,80,Yes,2023-01-02
+T0438,A0781,Ultrasound,Inpatient,Advanced protocol,707.25,70,No,2024-05-07
+T0439,A0782,Blood Test,Outpatient,Standard procedure,283.12,100,No,2023-01-26
+T0440,A0783,Vaccination,Inpatient,Specialist review,132.38,70,No,2023-04-05
+T0441,A0784,Ultrasound,Inpatient,Diagnostic imaging,530.36,80,Yes,2024-05-01
+T0442,A0785,Blood Test,Inpatient,Specialist review,311.16,100,Yes,2024-08-04
+T0443,A0786,Chemotherapy,Surgery,Basic screening,5998.25,80,No,2024-01-30
+T0444,A0788,Ultrasound,Outpatient,Basic screening,598.95,100,Yes,2024-02-11
+T0445,A0789,Chemotherapy,Inpatient,Basic screening,7050.72,50,No,2023-01-10
+T0446,A0791,Vaccination,Inpatient,Diagnostic imaging,184.33,50,No,2024-03-22
+T0447,A0793,X-Ray,Inpatient,Advanced protocol,622.2,80,No,2023-08-29
+T0448,A0794,Consultation,Outpatient,Follow-up assessment,345.41,0,No,2023-01-14
+T0449,A0795,Ultrasound,Inpatient,Standard procedure,600.3,50,No,2023-12-30
+T0450,A0796,X-Ray,Surgery,Standard procedure,441.7,50,Yes,2024-03-27
+T0451,A0801,Physical Therapy,Surgery,Basic screening,464.34,70,Yes,2024-03-01
+T0452,A0803,MRI,Surgery,Basic screening,4293.45,70,No,2023-05-28
+T0453,A0807,MRI,Outpatient,Specialist review,4078.76,80,No,2024-03-27
+T0454,A0814,CT Scan,Inpatient,Basic screening,3637.63,0,Yes,2023-01-26
+T0455,A0816,Chemotherapy,Outpatient,Advanced protocol,5366.87,50,No,2024-02-03
+T0456,A0819,X-Ray,Inpatient,Specialist review,523.53,70,Yes,2024-01-02
+T0457,A0820,Chemotherapy,Outpatient,Basic screening,5127.25,0,Yes,2023-09-28
+T0458,A0822,Minor Surgery,Inpatient,Routine test,5187.32,100,No,2024-12-17
+T0459,A0823,X-Ray,Inpatient,Basic screening,436.26,80,Yes,2023-02-20
+T0460,A0825,Medication Review,Inpatient,Diagnostic imaging,179.51,100,Yes,2024-06-09
+T0461,A0827,MRI,Inpatient,Standard procedure,3588.04,80,Yes,2024-03-07
+T0462,A0829,CT Scan,Inpatient,Standard procedure,3329.05,50,No,2023-04-08
+T0463,A0830,MRI,Outpatient,Routine test,4593.67,0,No,2024-10-06
+T0464,A0832,X-Ray,Inpatient,Diagnostic imaging,541.67,100,Yes,2024-02-15
+T0465,A0834,Minor Surgery,Inpatient,Specialist review,6174.35,80,Yes,2024-02-16
+T0466,A0836,Medication Review,Inpatient,Follow-up assessment,199.99,70,No,2023-04-22
+T0467,A0837,Consultation,Outpatient,Standard procedure,289.29,0,No,2024-03-21
+T0468,A0838,Blood Test,Outpatient,Routine test,299.36,0,No,2024-02-19
+T0469,A0839,MRI,Surgery,Basic screening,3757.75,70,No,2024-02-10
+T0470,A0840,Medication Review,Surgery,Advanced protocol,247.06,80,No,2023-01-04
+T0471,A0842,Medication Review,Inpatient,Advanced protocol,170.97,50,Yes,2024-12-26
+T0472,A0843,Vaccination,Inpatient,Basic screening,185.69,70,Yes,2024-05-11
+T0473,A0845,Consultation,Surgery,Specialist review,260.18,50,Yes,2023-08-11
+T0474,A0846,Physical Therapy,Surgery,Standard procedure,482.58,100,No,2024-02-03
+T0475,A0847,Ultrasound,Surgery,Follow-up assessment,636.65,70,Yes,2024-05-29
+T0476,A0848,Medication Review,Inpatient,Advanced protocol,249.44,70,No,2024-04-15
+T0477,A0849,Consultation,Outpatient,Specialist review,263.86,70,No,2024-11-13
+T0478,A0852,X-Ray,Surgery,Specialist review,535.77,70,No,2023-04-27
+T0479,A0854,Minor Surgery,Inpatient,Routine test,6188.61,80,No,2023-06-21
+T0480,A0855,Physical Therapy,Outpatient,Advanced protocol,423.7,80,No,2023-11-28
+T0481,A0856,Physical Therapy,Inpatient,Specialist review,440.7,100,No,2024-02-11
+T0482,A0862,X-Ray,Outpatient,Routine test,564.15,80,Yes,2024-02-13
+T0483,A0863,Minor Surgery,Inpatient,Diagnostic imaging,5159.08,50,No,2024-12-25
+T0484,A0864,Physical Therapy,Inpatient,Basic screening,440.41,0,No,2024-04-21
+T0485,A0866,Medication Review,Outpatient,Standard procedure,216.75,70,No,2023-04-29
+T0486,A0867,CT Scan,Inpatient,Routine test,3631.39,80,Yes,2023-03-02
+T0487,A0868,Vaccination,Outpatient,Standard procedure,130.23,80,Yes,2024-02-10
+T0488,A0869,Physical Therapy,Outpatient,Diagnostic imaging,384.95,80,No,2023-01-14
+T0489,A0871,Medication Review,Inpatient,Specialist review,246.03,0,Yes,2023-08-31
+T0490,A0873,Medication Review,Inpatient,Routine test,241.22,80,No,2024-02-04
+T0491,A0878,Ultrasound,Inpatient,Specialist review,619.36,50,Yes,2023-10-16
+T0492,A0879,MRI,Inpatient,Specialist review,4392.21,100,No,2024-11-17
+T0493,A0880,Consultation,Outpatient,Advanced protocol,288.29,0,Yes,2024-09-21
+T0494,A0882,Medication Review,Outpatient,Standard procedure,185.05,70,No,2024-02-19
+T0495,A0884,CT Scan,Outpatient,Basic screening,3106.44,100,Yes,2023-07-07
+T0496,A0885,Medication Review,Inpatient,Follow-up assessment,198.27,70,No,2024-12-19
+T0497,A0886,Vaccination,Inpatient,Specialist review,162.52,0,Yes,2023-10-31
+T0498,A0887,Ultrasound,Inpatient,Standard procedure,528.66,80,No,2023-10-15
+T0499,A0889,Medication Review,Outpatient,Standard procedure,247.95,50,Yes,2023-11-13
+T0500,A0891,Consultation,Outpatient,Routine test,373.35,50,No,2024-02-02
+T0501,A0893,Ultrasound,Surgery,Follow-up assessment,677.56,100,Yes,2024-07-20
+T0502,A0894,Chemotherapy,Outpatient,Specialist review,6386.63,70,No,2023-10-03
+T0503,A0896,Blood Test,Surgery,Diagnostic imaging,243.45,70,No,2023-12-27
+T0504,A0897,Blood Test,Outpatient,Basic screening,293.88,50,Yes,2024-03-09
+T0505,A0900,Vaccination,Outpatient,Advanced protocol,168.58,80,Yes,2024-11-19
+T0506,A0902,Medication Review,Outpatient,Specialist review,183.01,70,No,2024-09-08
+T0507,A0904,X-Ray,Inpatient,Diagnostic imaging,607.19,100,No,2024-11-14
+T0508,A0905,Chemotherapy,Inpatient,Specialist review,7074.09,50,Yes,2024-06-01
+T0509,A0906,Physical Therapy,Outpatient,Diagnostic imaging,491.97,50,Yes,2024-06-16
+T0510,A0907,Blood Test,Inpatient,Specialist review,285.07,50,Yes,2024-12-20
+T0511,A0908,Vaccination,Inpatient,Basic screening,164.3,70,No,2023-07-11
+T0512,A0911,Vaccination,Outpatient,Specialist review,152.59,100,Yes,2024-06-29
+T0513,A0914,CT Scan,Inpatient,Basic screening,3669.27,0,No,2023-11-30
+T0514,A0915,Minor Surgery,Outpatient,Routine test,5982.13,80,No,2023-11-14
+T0515,A0917,Minor Surgery,Surgery,Specialist review,4340.44,100,Yes,2024-09-05
+T0516,A0918,MRI,Surgery,Standard procedure,3442.19,0,No,2023-03-12
+T0517,A0919,Vaccination,Outpatient,Routine test,150.09,100,No,2024-06-21
+T0518,A0922,MRI,Inpatient,Specialist review,4696.89,100,Yes,2023-02-13
+T0519,A0923,MRI,Outpatient,Follow-up assessment,4979.64,100,Yes,2024-03-30
+T0520,A0924,X-Ray,Surgery,Diagnostic imaging,455.08,50,No,2023-07-20
+T0521,A0925,MRI,Outpatient,Advanced protocol,4350.61,70,Yes,2024-03-07
+T0522,A0927,Physical Therapy,Outpatient,Diagnostic imaging,400.94,70,Yes,2023-11-03
+T0523,A0929,Chemotherapy,Outpatient,Advanced protocol,7427.79,100,No,2024-04-28
+T0524,A0931,MRI,Outpatient,Routine test,4747.39,70,Yes,2024-01-22
+T0525,A0932,Ultrasound,Surgery,Routine test,711.2,50,Yes,2024-09-28
+T0526,A0934,MRI,Outpatient,Routine test,4149.91,100,No,2024-07-07
+T0527,A0935,CT Scan,Outpatient,Basic screening,3047.78,0,Yes,2024-01-10
+T0528,A0937,Consultation,Surgery,Routine test,287.81,100,No,2023-03-05
+T0529,A0940,Medication Review,Surgery,Advanced protocol,174.51,100,No,2024-02-11
+T0530,A0942,CT Scan,Outpatient,Routine test,3587.67,0,No,2023-11-07
+T0531,A0943,Medication Review,Inpatient,Diagnostic imaging,235.03,70,No,2024-01-07
+T0532,A0944,Vaccination,Inpatient,Advanced protocol,187.48,80,No,2023-11-28
+T0533,A0945,Vaccination,Inpatient,Basic screening,187.3,0,Yes,2024-04-04
+T0534,A0947,Vaccination,Outpatient,Follow-up assessment,160.83,80,No,2023-06-06
+T0535,A0948,Blood Test,Outpatient,Standard procedure,289.4,100,Yes,2024-01-21
+T0536,A0949,Physical Therapy,Surgery,Specialist review,491.16,70,No,2023-09-04
+T0537,A0950,Minor Surgery,Surgery,Advanced protocol,5949.29,70,Yes,2023-12-18
+T0538,A0951,Physical Therapy,Inpatient,Advanced protocol,379.58,80,Yes,2023-08-23
+T0539,A0952,Chemotherapy,Outpatient,Follow-up assessment,6181.31,50,Yes,2024-05-23
+T0540,A0954,X-Ray,Inpatient,Basic screening,450.83,70,No,2024-11-01
+T0541,A0958,CT Scan,Outpatient,Follow-up assessment,3694.86,50,Yes,2023-02-03
+T0542,A0962,Physical Therapy,Inpatient,Diagnostic imaging,436.99,70,Yes,2024-01-19
+T0543,A0963,MRI,Inpatient,Follow-up assessment,3765.83,100,No,2024-03-29
+T0544,A0964,Vaccination,Surgery,Standard procedure,167.8,80,Yes,2023-04-02
+T0545,A0966,X-Ray,Inpatient,Follow-up assessment,548.63,100,No,2023-08-20
+T0546,A0968,Blood Test,Outpatient,Advanced protocol,248.32,100,No,2024-06-18
+T0547,A0969,Consultation,Outpatient,Basic screening,268.63,70,No,2023-03-21
+T0548,A0972,CT Scan,Inpatient,Specialist review,3355.89,80,No,2023-08-11
+T0549,A0973,Ultrasound,Inpatient,Basic screening,634.87,0,No,2023-09-21
+T0550,A0974,MRI,Surgery,Standard procedure,4635.71,70,No,2023-02-10
+T0551,A0976,Physical Therapy,Inpatient,Basic screening,423.23,80,Yes,2024-08-01
+T0552,A0977,CT Scan,Outpatient,Diagnostic imaging,3572.62,50,No,2024-04-09
+T0553,A0979,Ultrasound,Inpatient,Standard procedure,642.46,0,No,2024-04-15
+T0554,A0980,Ultrasound,Outpatient,Follow-up assessment,644.63,100,No,2023-07-22
+T0555,A0983,CT Scan,Outpatient,Routine test,3601.98,100,Yes,2024-09-23
+T0556,A0984,MRI,Outpatient,Basic screening,4045.57,80,No,2023-11-15
+T0557,A0985,Physical Therapy,Inpatient,Diagnostic imaging,361.44,70,Yes,2023-08-21
+T0558,A0993,Blood Test,Inpatient,Diagnostic imaging,215.38,100,No,2024-06-09
+T0559,A0994,Ultrasound,Surgery,Basic screening,691.23,0,Yes,2023-10-22
+T0560,A0995,MRI,Inpatient,Routine test,4392.5,70,No,2023-08-31
+T0561,A0996,Ultrasound,Outpatient,Follow-up assessment,678.98,50,Yes,2023-04-28
+T0562,A0997,Physical Therapy,Inpatient,Diagnostic imaging,374.07,70,Yes,2024-08-12
+T0563,A0998,Minor Surgery,Inpatient,Diagnostic imaging,4522.74,70,No,2023-05-21
+T0564,A1001,Ultrasound,Outpatient,Specialist review,513.49,100,No,2023-10-31
+T0565,A1002,CT Scan,Outpatient,Standard procedure,2970.71,80,Yes,2023-08-04
+T0566,A1003,Physical Therapy,Outpatient,Standard procedure,434.39,0,No,2024-06-23
+T0567,A1004,CT Scan,Inpatient,Standard procedure,3020.69,0,No,2023-04-20
+T0568,A1006,Chemotherapy,Outpatient,Routine test,6149.94,100,Yes,2024-04-18
+T0569,A1007,Consultation,Inpatient,Diagnostic imaging,363.5,80,Yes,2024-11-21
+T0570,A1008,Ultrasound,Outpatient,Routine test,593.58,100,No,2023-12-29
+T0571,A1010,MRI,Outpatient,Specialist review,4222.38,50,Yes,2023-12-11
+T0572,A1011,CT Scan,Outpatient,Routine test,3490.38,0,Yes,2024-08-12
+T0573,A1012,Consultation,Inpatient,Follow-up assessment,302.59,70,No,2024-01-20
+T0574,A1013,MRI,Surgery,Follow-up assessment,4395.34,50,No,2024-12-19
+T0575,A1014,Ultrasound,Outpatient,Specialist review,716.97,100,No,2024-12-03
+T0576,A1015,Consultation,Surgery,Routine test,368.94,50,Yes,2024-03-31
+T0577,A1016,Ultrasound,Inpatient,Standard procedure,545.3,80,No,2024-06-24
+T0578,A1017,Physical Therapy,Inpatient,Advanced protocol,488.25,80,No,2024-03-23
+T0579,A1018,Ultrasound,Outpatient,Standard procedure,628.11,70,No,2024-12-28
+T0580,A1020,Blood Test,Outpatient,Advanced protocol,238.32,70,No,2023-12-14
+T0581,A1021,Blood Test,Inpatient,Standard procedure,258.41,70,Yes,2024-10-24
+T0582,A1024,Vaccination,Outpatient,Standard procedure,186.3,80,No,2023-08-13
+T0583,A1025,Ultrasound,Outpatient,Specialist review,628.23,70,No,2024-11-30
+T0584,A1027,X-Ray,Outpatient,Diagnostic imaging,490.75,100,No,2023-10-25
+T0585,A1030,Minor Surgery,Inpatient,Specialist review,5516.8,70,Yes,2024-11-13
+T0586,A1031,Chemotherapy,Outpatient,Basic screening,5676.35,70,Yes,2024-03-27
+T0587,A1033,Physical Therapy,Inpatient,Follow-up assessment,352.14,70,No,2024-02-05
+T0588,A1035,Blood Test,Surgery,Advanced protocol,225.39,100,No,2024-10-29
+T0589,A1040,Ultrasound,Outpatient,Routine test,540.73,70,Yes,2023-04-08
+T0590,A1042,X-Ray,Surgery,Diagnostic imaging,455.38,100,Yes,2024-03-08
+T0591,A1043,Blood Test,Inpatient,Basic screening,226.38,100,Yes,2024-11-17
+T0592,A1044,Medication Review,Inpatient,Advanced protocol,221.27,0,Yes,2023-10-01
+T0593,A1045,Minor Surgery,Outpatient,Standard procedure,4613.76,80,Yes,2023-01-15
+T0594,A1046,Medication Review,Outpatient,Specialist review,197.65,50,Yes,2023-02-05
+T0595,A1054,Ultrasound,Inpatient,Advanced protocol,725.23,80,No,2024-03-28
+T0596,A1055,Vaccination,Inpatient,Routine test,155.94,50,No,2024-02-20
+T0597,A1056,Physical Therapy,Outpatient,Standard procedure,446.81,0,Yes,2023-09-12
+T0598,A1057,Medication Review,Surgery,Diagnostic imaging,183.79,50,Yes,2024-12-24
+T0599,A1058,MRI,Inpatient,Follow-up assessment,3707.66,50,Yes,2023-02-24
+T0600,A1059,Minor Surgery,Inpatient,Specialist review,4331.74,80,Yes,2023-02-07
+T0601,A1061,Chemotherapy,Inpatient,Basic screening,5505.44,0,No,2023-07-17
+T0602,A1062,CT Scan,Inpatient,Diagnostic imaging,2884.31,0,No,2023-08-27
+T0603,A1063,Chemotherapy,Outpatient,Follow-up assessment,5524.83,100,No,2023-01-11
+T0604,A1064,MRI,Inpatient,Specialist review,3541.92,100,No,2023-01-31
+T0605,A1065,Chemotherapy,Surgery,Advanced protocol,5389.53,0,No,2023-03-18
+T0606,A1069,MRI,Outpatient,Routine test,4137.25,80,No,2024-04-03
+T0607,A1070,MRI,Outpatient,Basic screening,3730.13,70,No,2024-01-13
+T0608,A1071,CT Scan,Outpatient,Routine test,2987.12,50,Yes,2023-06-16
+T0609,A1072,CT Scan,Inpatient,Specialist review,3154.1,80,No,2023-07-07
+T0610,A1073,Ultrasound,Inpatient,Standard procedure,675.69,0,No,2023-05-08
+T0611,A1074,Medication Review,Outpatient,Basic screening,173.14,50,Yes,2023-09-26
+T0612,A1075,Vaccination,Surgery,Standard procedure,175.46,50,Yes,2023-09-02
+T0613,A1077,Chemotherapy,Outpatient,Follow-up assessment,6606.96,50,No,2024-11-20
+T0614,A1078,Chemotherapy,Inpatient,Standard procedure,5296.22,70,Yes,2024-01-30
+T0615,A1079,Chemotherapy,Inpatient,Routine test,7196.59,70,Yes,2024-10-25
+T0616,A1080,Consultation,Inpatient,Routine test,365.5,0,No,2024-10-19
+T0617,A1083,Chemotherapy,Outpatient,Advanced protocol,5246.59,80,No,2024-03-10
+T0618,A1084,X-Ray,Inpatient,Routine test,480.38,70,No,2024-12-16
+T0619,A1088,CT Scan,Inpatient,Advanced protocol,3517.44,50,Yes,2023-03-08
+T0620,A1089,Vaccination,Outpatient,Advanced protocol,172.4,80,No,2023-02-25
+T0621,A1091,Minor Surgery,Outpatient,Routine test,4619.04,100,No,2024-09-06
+T0622,A1092,Ultrasound,Surgery,Specialist review,560.24,50,Yes,2024-12-07
+T0623,A1094,Medication Review,Inpatient,Specialist review,199.64,100,Yes,2024-07-19
+T0624,A1095,Ultrasound,Inpatient,Follow-up assessment,626.29,100,No,2024-04-28
+T0625,A1097,X-Ray,Outpatient,Diagnostic imaging,548.65,0,Yes,2023-02-09
+T0626,A1098,Ultrasound,Inpatient,Diagnostic imaging,598.54,50,Yes,2023-05-25
+T0627,A1099,MRI,Inpatient,Standard procedure,4140.06,100,No,2023-12-27
+T0628,A1101,X-Ray,Outpatient,Routine test,574.49,50,No,2024-11-17
+T0629,A1102,X-Ray,Inpatient,Diagnostic imaging,432.34,80,Yes,2024-01-20
+T0630,A1103,Vaccination,Outpatient,Advanced protocol,142.65,100,No,2024-05-27
+T0631,A1106,Vaccination,Outpatient,Diagnostic imaging,170.3,0,No,2024-09-23
+T0632,A1107,Medication Review,Outpatient,Specialist review,241.62,70,Yes,2024-12-19
+T0633,A1109,Minor Surgery,Inpatient,Standard procedure,5273.35,0,Yes,2024-09-26
+T0634,A1110,CT Scan,Surgery,Basic screening,3188.54,0,No,2024-02-26
+T0635,A1111,Physical Therapy,Outpatient,Routine test,357.15,0,Yes,2024-07-27
+T0636,A1112,X-Ray,Outpatient,Follow-up assessment,514.48,0,No,2024-02-08
+T0637,A1113,Minor Surgery,Inpatient,Advanced protocol,5315.23,50,No,2024-02-24
+T0638,A1119,Physical Therapy,Inpatient,Follow-up assessment,378.8,80,No,2023-11-28
+T0639,A1120,Minor Surgery,Inpatient,Basic screening,4788.49,100,Yes,2023-06-12
+T0640,A1123,Medication Review,Outpatient,Specialist review,200.18,70,Yes,2023-07-18
+T0641,A1124,MRI,Outpatient,Diagnostic imaging,3432.11,80,Yes,2023-08-25
+T0642,A1125,Blood Test,Inpatient,Specialist review,244.71,0,Yes,2023-03-20
+T0643,A1126,Chemotherapy,Inpatient,Follow-up assessment,5607.48,100,No,2024-12-30
+T0644,A1127,Ultrasound,Outpatient,Follow-up assessment,588.6,50,Yes,2024-12-29
+T0645,A1128,Vaccination,Outpatient,Standard procedure,134.69,50,No,2024-02-12
+T0646,A1130,Blood Test,Outpatient,Routine test,301.55,0,Yes,2024-01-17
+T0647,A1135,Medication Review,Inpatient,Follow-up assessment,217.49,100,Yes,2024-09-14
+T0648,A1137,Blood Test,Inpatient,Advanced protocol,280.41,0,Yes,2023-09-16
+T0649,A1138,CT Scan,Outpatient,Basic screening,3497.01,80,Yes,2023-06-25
+T0650,A1142,Blood Test,Outpatient,Routine test,262.34,0,No,2024-02-19
+T0651,A1143,Vaccination,Inpatient,Advanced protocol,132.72,100,Yes,2024-09-20
+T0652,A1144,Consultation,Outpatient,Advanced protocol,319.45,100,No,2024-11-29
+T0653,A1148,Blood Test,Inpatient,Specialist review,271.18,100,No,2023-10-01
+T0654,A1150,CT Scan,Outpatient,Diagnostic imaging,3444.53,70,Yes,2023-02-24
+T0655,A1153,Chemotherapy,Surgery,Advanced protocol,6135.98,100,Yes,2023-08-19
+T0656,A1154,Minor Surgery,Inpatient,Standard procedure,4505.16,70,Yes,2024-02-15
+T0657,A1155,Ultrasound,Outpatient,Diagnostic imaging,578.11,50,No,2024-05-28
+T0658,A1156,Ultrasound,Outpatient,Follow-up assessment,597.14,0,No,2023-12-25
+T0659,A1157,Medication Review,Outpatient,Routine test,221.67,80,No,2023-01-04
+T0660,A1158,Minor Surgery,Inpatient,Follow-up assessment,5391.56,50,No,2024-12-24
+T0661,A1159,Minor Surgery,Inpatient,Advanced protocol,4962.19,100,No,2024-12-25
+T0662,A1160,Blood Test,Outpatient,Specialist review,311.15,50,No,2024-04-14
+T0663,A1161,MRI,Inpatient,Specialist review,4369.24,80,Yes,2023-08-06
+T0664,A1163,Ultrasound,Outpatient,Follow-up assessment,566.93,80,Yes,2024-03-02
+T0665,A1166,Minor Surgery,Inpatient,Advanced protocol,4453.56,70,Yes,2023-03-31
+T0666,A1168,Physical Therapy,Outpatient,Routine test,364.46,0,No,2023-04-09
+T0667,A1169,Physical Therapy,Outpatient,Basic screening,379.35,100,Yes,2024-08-18
+T0668,A1170,Consultation,Outpatient,Standard procedure,274.28,80,Yes,2024-08-04
+T0669,A1172,X-Ray,Inpatient,Advanced protocol,462.31,100,Yes,2023-07-29
+T0670,A1173,Vaccination,Outpatient,Advanced protocol,144.61,70,No,2023-08-05
+T0671,A1174,Consultation,Outpatient,Advanced protocol,275.8,50,Yes,2023-02-16
+T0672,A1175,Vaccination,Surgery,Advanced protocol,181.31,100,Yes,2024-10-01
+T0673,A1178,Minor Surgery,Inpatient,Advanced protocol,4410.47,100,No,2024-05-13
+T0674,A1183,Chemotherapy,Outpatient,Follow-up assessment,6358.83,80,No,2024-10-15
+T0675,A1184,Chemotherapy,Outpatient,Standard procedure,6084.95,70,No,2024-11-07
+T0676,A1186,Vaccination,Inpatient,Basic screening,186.44,80,No,2024-10-10
+T0677,A1188,Blood Test,Inpatient,Standard procedure,223.7,70,No,2023-01-14
+T0678,A1190,Consultation,Inpatient,Diagnostic imaging,302.74,50,Yes,2024-02-26
+T0679,A1191,Consultation,Surgery,Standard procedure,371.34,100,No,2024-01-13
+T0680,A1192,Chemotherapy,Outpatient,Advanced protocol,7177.22,50,No,2024-04-22
+T0681,A1196,Blood Test,Inpatient,Follow-up assessment,294.21,100,Yes,2024-01-13
+T0682,A1198,Vaccination,Inpatient,Diagnostic imaging,142.97,70,No,2024-12-18
+T0683,A1199,Vaccination,Inpatient,Routine test,137.75,80,No,2024-03-13
+T0684,A1200,MRI,Outpatient,Routine test,4469.83,70,Yes,2023-03-16
+T0685,A1201,MRI,Outpatient,Routine test,4887.0,100,No,2023-02-26
+T0686,A1202,MRI,Inpatient,Diagnostic imaging,4290.82,0,Yes,2024-02-26
+T0687,A1203,X-Ray,Outpatient,Specialist review,539.32,0,Yes,2023-06-14
+T0688,A1204,Minor Surgery,Outpatient,Advanced protocol,4809.96,50,Yes,2024-03-29
+T0689,A1206,MRI,Inpatient,Basic screening,4631.19,50,No,2023-05-09
+T0690,A1207,Physical Therapy,Outpatient,Basic screening,369.93,100,No,2024-01-06
+T0691,A1208,Medication Review,Outpatient,Follow-up assessment,195.89,0,Yes,2024-10-13
+T0692,A1211,Ultrasound,Inpatient,Diagnostic imaging,612.1,80,Yes,2024-03-01
+T0693,A1212,Consultation,Inpatient,Diagnostic imaging,315.91,70,No,2024-07-13
+T0694,A1213,Consultation,Outpatient,Diagnostic imaging,284.09,80,Yes,2024-01-30
+T0695,A1218,X-Ray,Inpatient,Basic screening,447.97,100,Yes,2023-01-27
+T0696,A1219,Blood Test,Outpatient,Advanced protocol,273.56,100,No,2024-03-03
+T0697,A1221,Physical Therapy,Outpatient,Standard procedure,386.18,80,Yes,2023-08-03
+T0698,A1224,Physical Therapy,Inpatient,Follow-up assessment,433.0,80,Yes,2024-10-05
+T0699,A1225,Blood Test,Outpatient,Standard procedure,227.94,0,Yes,2024-01-12
+T0700,A1229,X-Ray,Inpatient,Follow-up assessment,521.23,80,No,2023-02-19
+T0701,A1230,Ultrasound,Outpatient,Follow-up assessment,637.82,0,Yes,2024-08-10
+T0702,A1233,MRI,Outpatient,Basic screening,3482.92,80,No,2023-04-23
+T0703,A1234,Medication Review,Outpatient,Specialist review,196.93,70,Yes,2024-10-29
+T0704,A1238,Ultrasound,Inpatient,Basic screening,542.26,50,Yes,2024-02-25
+T0705,A1239,CT Scan,Outpatient,Follow-up assessment,2626.05,70,Yes,2024-06-29
+T0706,A1243,X-Ray,Inpatient,Routine test,622.99,70,Yes,2024-11-24
+T0707,A1246,MRI,Inpatient,Specialist review,3915.77,70,Yes,2023-01-06
+T0708,A1247,Blood Test,Outpatient,Diagnostic imaging,293.49,50,No,2023-12-06
+T0709,A1249,X-Ray,Outpatient,Standard procedure,475.93,50,Yes,2024-01-05
+T0710,A1250,CT Scan,Outpatient,Specialist review,3367.8,80,No,2024-05-06
+T0711,A1251,Minor Surgery,Inpatient,Specialist review,5770.46,50,Yes,2023-12-14
+T0712,A1256,Ultrasound,Inpatient,Routine test,652.95,70,Yes,2024-05-13
+T0713,A1257,X-Ray,Outpatient,Follow-up assessment,519.32,50,Yes,2023-12-05
+T0714,A1258,Physical Therapy,Inpatient,Diagnostic imaging,405.89,100,No,2024-12-04
+T0715,A1260,Physical Therapy,Surgery,Basic screening,395.82,70,No,2024-07-10
+T0716,A1261,Vaccination,Outpatient,Advanced protocol,183.27,70,No,2024-12-03
+T0717,A1262,Minor Surgery,Outpatient,Advanced protocol,5911.24,100,No,2023-08-08
+T0718,A1264,X-Ray,Surgery,Specialist review,618.01,100,No,2024-07-17
+T0719,A1265,Blood Test,Surgery,Routine test,224.93,0,Yes,2024-02-23
+T0720,A1267,Chemotherapy,Inpatient,Advanced protocol,6854.08,80,Yes,2024-03-27
+T0721,A1268,Minor Surgery,Inpatient,Standard procedure,6126.68,70,Yes,2024-08-09
+T0722,A1269,X-Ray,Outpatient,Basic screening,461.25,70,No,2024-05-18
+T0723,A1272,Physical Therapy,Outpatient,Specialist review,350.64,70,Yes,2023-02-18
+T0724,A1273,MRI,Inpatient,Basic screening,4585.79,50,No,2024-02-26
+T0725,A1274,Vaccination,Inpatient,Diagnostic imaging,161.97,100,No,2023-10-25
+T0726,A1275,X-Ray,Inpatient,Basic screening,593.37,0,No,2023-05-04
+T0727,A1276,Ultrasound,Surgery,Basic screening,543.55,100,No,2024-08-20
+T0728,A1277,Minor Surgery,Inpatient,Basic screening,5840.53,70,No,2024-11-26
+T0729,A1279,Minor Surgery,Outpatient,Specialist review,4653.25,0,Yes,2023-08-08
+T0730,A1280,CT Scan,Outpatient,Diagnostic imaging,2746.39,50,No,2023-04-05
+T0731,A1282,MRI,Outpatient,Advanced protocol,3662.83,70,No,2024-05-21
+T0732,A1284,Chemotherapy,Inpatient,Follow-up assessment,7054.98,50,Yes,2024-01-02
+T0733,A1286,MRI,Inpatient,Follow-up assessment,4464.32,70,No,2024-03-20
+T0734,A1287,Chemotherapy,Outpatient,Follow-up assessment,6355.36,0,No,2023-08-23
+T0735,A1288,Chemotherapy,Outpatient,Advanced protocol,5961.19,80,Yes,2023-01-06
+T0736,A1289,Vaccination,Inpatient,Basic screening,180.13,50,No,2023-05-25
+T0737,A1290,Consultation,Inpatient,Follow-up assessment,302.09,70,No,2023-07-23
+T0738,A1292,Physical Therapy,Inpatient,Follow-up assessment,470.66,70,No,2024-11-28
+T0739,A1294,Medication Review,Outpatient,Diagnostic imaging,205.13,50,No,2023-03-20
+T0740,A1298,Physical Therapy,Outpatient,Diagnostic imaging,400.31,50,No,2023-10-02
+T0741,A1299,Physical Therapy,Outpatient,Advanced protocol,414.03,80,No,2024-02-09
+T0742,A1301,Chemotherapy,Surgery,Routine test,5823.31,80,Yes,2023-08-22
+T0743,A1306,Physical Therapy,Outpatient,Follow-up assessment,459.62,70,No,2023-01-26
+T0744,A1307,Physical Therapy,Surgery,Basic screening,420.44,100,Yes,2023-12-28
+T0745,A1310,CT Scan,Outpatient,Diagnostic imaging,2828.66,50,Yes,2023-05-09
+T0746,A1313,Vaccination,Inpatient,Routine test,181.47,50,No,2024-03-13
+T0747,A1314,Chemotherapy,Surgery,Specialist review,6021.34,0,No,2023-12-24
+T0748,A1315,Medication Review,Outpatient,Follow-up assessment,213.48,50,No,2024-10-16
+T0749,A1317,Blood Test,Surgery,Standard procedure,303.15,50,No,2023-07-15
+T0750,A1318,Minor Surgery,Inpatient,Basic screening,5498.48,80,No,2024-12-20
+T0751,A1320,CT Scan,Surgery,Follow-up assessment,2690.28,100,No,2024-12-17
+T0752,A1322,Ultrasound,Outpatient,Basic screening,735.56,70,Yes,2024-01-05
+T0753,A1325,X-Ray,Inpatient,Specialist review,550.54,50,No,2023-01-05
+T0754,A1327,MRI,Inpatient,Routine test,3935.85,100,Yes,2024-09-22
+T0755,A1329,CT Scan,Inpatient,Routine test,2717.13,80,No,2024-11-05
+T0756,A1330,Minor Surgery,Outpatient,Basic screening,5838.05,0,Yes,2024-05-06
+T0757,A1331,Chemotherapy,Outpatient,Advanced protocol,6588.17,100,Yes,2024-11-05
+T0758,A1332,Vaccination,Surgery,Standard procedure,159.51,80,No,2024-02-24
+T0759,A1333,Medication Review,Inpatient,Diagnostic imaging,241.51,100,Yes,2023-07-13
+T0760,A1334,Physical Therapy,Inpatient,Basic screening,466.18,80,Yes,2023-10-09
+T0761,A1336,Chemotherapy,Outpatient,Follow-up assessment,5464.02,0,Yes,2023-03-14
+T0762,A1337,MRI,Outpatient,Standard procedure,3898.76,70,No,2024-11-16
+T0763,A1339,Vaccination,Inpatient,Specialist review,142.41,50,No,2023-01-18
+T0764,A1340,Physical Therapy,Inpatient,Follow-up assessment,459.03,0,No,2023-12-25
+T0765,A1341,Vaccination,Inpatient,Standard procedure,129.51,0,No,2024-01-30
+T0766,A1344,Consultation,Inpatient,Specialist review,323.39,0,Yes,2024-12-05
+T0767,A1345,Physical Therapy,Inpatient,Routine test,461.99,0,Yes,2024-10-14
+T0768,A1346,Blood Test,Inpatient,Diagnostic imaging,300.18,50,Yes,2024-05-17
+T0769,A1348,Physical Therapy,Outpatient,Diagnostic imaging,394.73,80,No,2023-01-26
+T0770,A1353,Blood Test,Outpatient,Specialist review,294.63,80,Yes,2024-06-26
+T0771,A1354,MRI,Inpatient,Routine test,3577.01,80,No,2024-12-26
+T0772,A1355,Consultation,Outpatient,Routine test,356.57,100,Yes,2024-06-26
+T0773,A1356,Vaccination,Inpatient,Diagnostic imaging,135.15,80,No,2024-02-08
+T0774,A1357,Consultation,Outpatient,Routine test,302.67,50,Yes,2023-02-20
+T0775,A1359,Chemotherapy,Inpatient,Specialist review,7013.51,0,Yes,2023-05-10
+T0776,A1360,Ultrasound,Outpatient,Advanced protocol,545.98,70,No,2023-05-14
+T0777,A1362,Blood Test,Outpatient,Follow-up assessment,235.43,0,No,2024-03-09
+T0778,A1363,Medication Review,Inpatient,Specialist review,227.78,80,No,2023-01-12
+T0779,A1365,CT Scan,Surgery,Follow-up assessment,3414.04,100,No,2023-08-05
+T0780,A1366,CT Scan,Outpatient,Basic screening,3319.38,70,No,2024-02-22
+T0781,A1369,Vaccination,Inpatient,Diagnostic imaging,169.14,50,No,2024-09-08
+T0782,A1371,CT Scan,Outpatient,Diagnostic imaging,3201.27,0,Yes,2023-11-26
+T0783,A1372,Physical Therapy,Outpatient,Basic screening,380.29,50,No,2023-02-05
+T0784,A1375,X-Ray,Inpatient,Advanced protocol,494.14,70,Yes,2024-06-10
+T0785,A1376,Ultrasound,Surgery,Follow-up assessment,553.58,80,Yes,2023-06-17
+T0786,A1379,CT Scan,Inpatient,Follow-up assessment,3640.14,80,Yes,2024-09-08
+T0787,A1381,Vaccination,Inpatient,Routine test,162.5,100,Yes,2023-07-11
+T0788,A1382,Ultrasound,Inpatient,Advanced protocol,606.2,80,No,2024-03-07
+T0789,A1383,MRI,Inpatient,Advanced protocol,4139.21,70,No,2023-05-05
+T0790,A1384,CT Scan,Inpatient,Basic screening,3686.74,70,Yes,2023-12-26
+T0791,A1385,Vaccination,Outpatient,Advanced protocol,136.7,50,No,2024-08-11
+T0792,A1386,Ultrasound,Outpatient,Diagnostic imaging,650.7,80,No,2023-05-19
+T0793,A1387,Medication Review,Outpatient,Follow-up assessment,210.47,80,No,2024-09-18
+T0794,A1388,Vaccination,Inpatient,Advanced protocol,164.19,0,Yes,2024-12-23
+T0795,A1389,Blood Test,Inpatient,Standard procedure,214.31,0,No,2023-03-18
+T0796,A1392,Blood Test,Outpatient,Diagnostic imaging,299.71,70,Yes,2023-07-10
+T0797,A1393,Vaccination,Outpatient,Diagnostic imaging,183.43,80,Yes,2023-05-30
+T0798,A1395,CT Scan,Outpatient,Basic screening,3228.16,70,No,2024-01-08
+T0799,A1398,Ultrasound,Outpatient,Specialist review,677.2,0,No,2024-04-05
+T0800,A1399,Ultrasound,Inpatient,Advanced protocol,731.4,80,Yes,2024-02-10
+T0801,A1401,Medication Review,Outpatient,Specialist review,226.58,50,No,2024-08-19
+T0802,A1404,Consultation,Outpatient,Follow-up assessment,273.3,70,No,2024-05-11
+T0803,A1405,X-Ray,Outpatient,Follow-up assessment,540.26,0,Yes,2024-01-20
+T0804,A1406,Blood Test,Inpatient,Specialist review,273.17,100,No,2023-01-10
+T0805,A1409,CT Scan,Inpatient,Routine test,3058.96,80,Yes,2024-07-18
+T0806,A1410,CT Scan,Inpatient,Advanced protocol,3433.73,50,Yes,2024-07-03
+T0807,A1412,Consultation,Inpatient,Diagnostic imaging,367.12,70,No,2023-06-05
+T0808,A1413,CT Scan,Inpatient,Diagnostic imaging,3660.68,50,No,2023-02-15
+T0809,A1414,Chemotherapy,Inpatient,Standard procedure,6182.01,100,No,2023-02-08
+T0810,A1415,Ultrasound,Outpatient,Routine test,537.18,0,Yes,2024-07-17
+T0811,A1416,Minor Surgery,Inpatient,Basic screening,6219.68,70,Yes,2024-11-11
+T0812,A1420,MRI,Outpatient,Advanced protocol,4742.24,50,No,2024-12-31
+T0813,A1421,Blood Test,Outpatient,Specialist review,224.97,80,No,2024-07-19
+T0814,A1425,MRI,Outpatient,Diagnostic imaging,4873.35,70,No,2024-07-17
+T0815,A1426,Minor Surgery,Inpatient,Follow-up assessment,5989.79,0,Yes,2024-12-27
+T0816,A1429,Minor Surgery,Inpatient,Diagnostic imaging,5287.68,70,No,2024-09-22
+T0817,A1430,Vaccination,Inpatient,Follow-up assessment,162.98,70,Yes,2023-04-28
+T0818,A1433,X-Ray,Inpatient,Routine test,504.8,80,No,2023-11-22
+T0819,A1434,X-Ray,Inpatient,Specialist review,435.95,100,No,2023-05-03
+T0820,A1436,Blood Test,Outpatient,Follow-up assessment,246.02,50,No,2024-12-01
+T0821,A1438,Chemotherapy,Inpatient,Standard procedure,7026.85,70,No,2023-01-24
+T0822,A1440,Ultrasound,Outpatient,Diagnostic imaging,511.11,50,No,2023-01-19
+T0823,A1441,Physical Therapy,Surgery,Routine test,393.36,0,Yes,2023-03-16
+T0824,A1443,X-Ray,Outpatient,Routine test,504.63,80,Yes,2024-12-22
+T0825,A1444,X-Ray,Inpatient,Specialist review,532.48,50,No,2024-12-23
+T0826,A1446,Vaccination,Outpatient,Basic screening,182.69,80,Yes,2024-02-16
+T0827,A1449,MRI,Outpatient,Routine test,3954.15,70,Yes,2023-06-14
+T0828,A1450,Chemotherapy,Surgery,Basic screening,5932.69,70,No,2023-01-18
+T0829,A1451,X-Ray,Outpatient,Standard procedure,572.5,50,Yes,2023-07-08
+T0830,A1455,Minor Surgery,Outpatient,Routine test,5154.44,70,Yes,2023-03-25
+T0831,A1456,Minor Surgery,Inpatient,Routine test,4699.21,0,Yes,2024-09-12
+T0832,A1457,Consultation,Outpatient,Advanced protocol,309.29,80,Yes,2024-01-25
+T0833,A1459,MRI,Inpatient,Diagnostic imaging,3625.37,50,No,2024-08-19
+T0834,A1460,Consultation,Surgery,Basic screening,276.17,70,Yes,2024-02-04
+T0835,A1462,Minor Surgery,Outpatient,Routine test,5246.74,50,No,2024-12-30
+T0836,A1463,X-Ray,Outpatient,Advanced protocol,508.79,80,Yes,2024-06-05
+T0837,A1464,X-Ray,Outpatient,Basic screening,607.97,70,No,2023-03-24
+T0838,A1466,Chemotherapy,Inpatient,Advanced protocol,5969.75,80,Yes,2024-12-03
+T0839,A1468,Medication Review,Inpatient,Routine test,216.45,50,Yes,2024-01-06
+T0840,A1470,Ultrasound,Inpatient,Diagnostic imaging,661.74,0,Yes,2023-11-14
+T0841,A1471,Vaccination,Inpatient,Standard procedure,128.29,50,Yes,2023-06-04
+T0842,A1473,Minor Surgery,Surgery,Diagnostic imaging,5577.07,80,Yes,2023-11-10
+T0843,A1474,X-Ray,Inpatient,Basic screening,460.61,50,Yes,2024-01-22
+T0844,A1476,CT Scan,Inpatient,Routine test,3703.28,80,No,2024-04-22
+T0845,A1477,Minor Surgery,Inpatient,Standard procedure,4547.33,50,Yes,2023-05-25
+T0846,A1481,Chemotherapy,Outpatient,Routine test,6095.1,0,Yes,2023-02-06
+T0847,A1482,Ultrasound,Outpatient,Diagnostic imaging,530.48,100,No,2023-02-23
+T0848,A1484,Consultation,Surgery,Specialist review,374.62,70,Yes,2024-01-14
+T0849,A1488,Ultrasound,Inpatient,Diagnostic imaging,630.53,100,Yes,2023-09-21
+T0850,A1489,Minor Surgery,Outpatient,Standard procedure,5440.77,0,Yes,2024-11-26
+T0851,A1492,Vaccination,Inpatient,Follow-up assessment,131.52,0,Yes,2024-01-28
+T0852,A1495,Vaccination,Outpatient,Routine test,172.5,100,Yes,2024-04-12
+T0853,A1497,Ultrasound,Inpatient,Basic screening,560.38,70,No,2024-01-13
+T0854,A1498,MRI,Outpatient,Follow-up assessment,4836.89,100,No,2023-12-21
+T0855,A1500,Physical Therapy,Outpatient,Diagnostic imaging,372.82,50,No,2024-02-09
+T0856,A1501,X-Ray,Surgery,Basic screening,463.14,100,Yes,2024-10-13
+T0857,A1502,Consultation,Inpatient,Standard procedure,259.39,50,Yes,2024-11-21
+T0858,A1503,Consultation,Inpatient,Specialist review,311.65,80,No,2024-02-14
+T0859,A1504,Medication Review,Inpatient,Routine test,215.19,100,No,2024-02-03
+T0860,A1506,Minor Surgery,Inpatient,Routine test,4381.42,80,Yes,2024-12-02
+T0861,A1508,Medication Review,Outpatient,Diagnostic imaging,232.04,100,Yes,2023-02-25
+T0862,A1511,Chemotherapy,Outpatient,Basic screening,6187.89,70,Yes,2023-04-17
+T0863,A1512,Ultrasound,Inpatient,Advanced protocol,635.85,50,No,2024-11-01
+T0864,A1513,Minor Surgery,Inpatient,Diagnostic imaging,5131.53,0,No,2024-09-28
+T0865,A1514,Minor Surgery,Outpatient,Routine test,5051.53,50,Yes,2024-09-03
+T0866,A1515,Blood Test,Outpatient,Basic screening,268.46,80,Yes,2024-08-18
+T0867,A1517,Vaccination,Outpatient,Diagnostic imaging,136.81,100,Yes,2023-01-02
+T0868,A1518,Chemotherapy,Inpatient,Routine test,5536.63,50,Yes,2024-10-01
+T0869,A1519,Consultation,Outpatient,Routine test,358.41,50,Yes,2024-12-25
+T0870,A1523,MRI,Outpatient,Follow-up assessment,4913.78,70,No,2023-12-25
+T0871,A1524,MRI,Inpatient,Standard procedure,3997.29,50,No,2023-10-19
+T0872,A1525,X-Ray,Surgery,Specialist review,479.15,0,No,2024-09-24
+T0873,A1526,Minor Surgery,Outpatient,Standard procedure,5538.0,100,Yes,2023-09-09
+T0874,A1527,Chemotherapy,Outpatient,Routine test,6080.96,100,Yes,2023-06-13
+T0875,A1529,Vaccination,Inpatient,Follow-up assessment,129.02,100,No,2023-09-08
+T0876,A1531,Consultation,Outpatient,Follow-up assessment,273.74,100,Yes,2023-07-07
+T0877,A1532,Physical Therapy,Outpatient,Advanced protocol,454.56,70,Yes,2023-09-14
+T0878,A1535,CT Scan,Inpatient,Routine test,3340.71,0,Yes,2024-01-07
+T0879,A1538,Ultrasound,Outpatient,Basic screening,516.5,0,Yes,2023-05-12
+T0880,A1540,Blood Test,Inpatient,Basic screening,234.7,80,No,2023-05-18
+T0881,A1542,Minor Surgery,Outpatient,Advanced protocol,4712.15,50,Yes,2024-06-23
+T0882,A1544,Ultrasound,Outpatient,Specialist review,671.25,80,Yes,2023-01-17
+T0883,A1545,Physical Therapy,Outpatient,Advanced protocol,343.15,80,No,2024-01-03
+T0884,A1546,Chemotherapy,Surgery,Specialist review,5349.86,0,No,2024-03-24
+T0885,A1548,X-Ray,Outpatient,Diagnostic imaging,584.98,0,Yes,2024-01-24
+T0886,A1549,Blood Test,Outpatient,Specialist review,230.35,100,Yes,2023-11-23
+T0887,A1550,Minor Surgery,Inpatient,Basic screening,5555.49,80,No,2024-01-01
+T0888,A1552,Chemotherapy,Outpatient,Standard procedure,5671.64,0,No,2024-09-15
+T0889,A1553,Consultation,Surgery,Standard procedure,266.93,50,No,2023-01-05
+T0890,A1554,CT Scan,Inpatient,Specialist review,2841.81,70,Yes,2023-12-12
+T0891,A1555,Vaccination,Inpatient,Standard procedure,170.84,100,No,2024-01-03
+T0892,A1557,Blood Test,Inpatient,Routine test,298.07,100,Yes,2023-09-17
+T0893,A1558,MRI,Outpatient,Basic screening,4728.35,80,Yes,2024-06-05
+T0894,A1559,Blood Test,Outpatient,Diagnostic imaging,252.22,70,Yes,2023-12-12
+T0895,A1561,Physical Therapy,Outpatient,Basic screening,446.89,80,No,2024-12-27
+T0896,A1562,X-Ray,Inpatient,Advanced protocol,466.0,100,Yes,2023-08-29
+T0897,A1565,Minor Surgery,Outpatient,Follow-up assessment,4836.3,0,Yes,2024-04-19
+T0898,A1566,Chemotherapy,Inpatient,Basic screening,7251.21,0,Yes,2023-10-05
+T0899,A1568,Ultrasound,Outpatient,Follow-up assessment,513.12,70,No,2023-05-15
+T0900,A1569,X-Ray,Inpatient,Diagnostic imaging,442.1,0,Yes,2024-11-19
+T0901,A1571,Medication Review,Outpatient,Specialist review,186.63,80,Yes,2023-03-29
+T0902,A1572,CT Scan,Inpatient,Diagnostic imaging,2581.84,0,No,2023-10-27
+T0903,A1575,Medication Review,Outpatient,Advanced protocol,184.51,50,No,2024-10-03
+T0904,A1577,Chemotherapy,Inpatient,Specialist review,6499.3,70,No,2024-04-27
+T0905,A1578,Physical Therapy,Outpatient,Standard procedure,407.43,80,No,2023-01-26
+T0906,A1579,Blood Test,Outpatient,Basic screening,301.77,50,Yes,2023-01-28
+T0907,A1580,CT Scan,Outpatient,Basic screening,3530.93,50,Yes,2023-05-28
+T0908,A1583,MRI,Outpatient,Follow-up assessment,3946.91,80,No,2024-02-18
+T0909,A1589,Minor Surgery,Outpatient,Basic screening,4768.85,100,No,2023-04-13
+T0910,A1590,Blood Test,Inpatient,Follow-up assessment,250.47,70,No,2023-03-23
+T0911,A1591,Chemotherapy,Outpatient,Specialist review,6516.71,0,Yes,2023-06-13
+T0912,A1592,MRI,Surgery,Specialist review,3828.9,70,Yes,2023-02-28
+T0913,A1593,Blood Test,Surgery,Specialist review,274.91,70,Yes,2024-04-16
+T0914,A1594,X-Ray,Outpatient,Routine test,506.88,50,No,2024-01-04
+T0915,A1595,Minor Surgery,Inpatient,Diagnostic imaging,5354.09,0,No,2024-10-02
+T0916,A1598,Chemotherapy,Inpatient,Specialist review,6146.7,50,Yes,2024-03-11
+T0917,A1601,Minor Surgery,Inpatient,Specialist review,4838.93,80,Yes,2024-12-14
+T0918,A1603,X-Ray,Surgery,Follow-up assessment,614.69,0,Yes,2023-10-07
+T0919,A1604,X-Ray,Inpatient,Basic screening,577.72,0,Yes,2023-02-23
+T0920,A1605,MRI,Inpatient,Advanced protocol,3624.18,80,No,2024-03-15
+T0921,A1608,Medication Review,Inpatient,Routine test,239.48,0,No,2024-09-04
+T0922,A1609,X-Ray,Outpatient,Basic screening,522.49,0,Yes,2023-04-09
+T0923,A1610,Medication Review,Inpatient,Follow-up assessment,241.56,50,Yes,2023-05-14
+T0924,A1612,Physical Therapy,Inpatient,Basic screening,467.98,0,No,2023-07-24
+T0925,A1614,Consultation,Outpatient,Advanced protocol,306.03,100,No,2023-12-30
+T0926,A1615,Minor Surgery,Outpatient,Follow-up assessment,4294.94,0,No,2023-04-15
+T0927,A1617,Medication Review,Outpatient,Follow-up assessment,191.49,50,No,2024-12-08
+T0928,A1618,Blood Test,Outpatient,Advanced protocol,266.66,70,No,2023-10-10
+T0929,A1620,Vaccination,Outpatient,Advanced protocol,165.51,0,Yes,2024-01-26
+T0930,A1621,Medication Review,Inpatient,Standard procedure,190.63,80,No,2023-11-29
+T0931,A1623,Ultrasound,Outpatient,Follow-up assessment,543.45,0,Yes,2024-10-17
+T0932,A1627,Chemotherapy,Outpatient,Follow-up assessment,7103.83,50,No,2024-05-04
+T0933,A1628,Blood Test,Outpatient,Routine test,310.94,100,Yes,2023-06-02
+T0934,A1629,Medication Review,Outpatient,Specialist review,212.06,100,Yes,2023-12-26
+T0935,A1630,Minor Surgery,Inpatient,Specialist review,4593.36,70,No,2023-07-13
+T0936,A1631,Ultrasound,Outpatient,Specialist review,575.35,80,No,2024-12-19
+T0937,A1633,CT Scan,Inpatient,Diagnostic imaging,2572.07,70,No,2023-09-10
+T0938,A1635,Chemotherapy,Outpatient,Advanced protocol,7294.32,0,No,2023-08-22
+T0939,A1636,CT Scan,Outpatient,Advanced protocol,2691.3,0,No,2023-07-21
+T0940,A1638,Consultation,Outpatient,Specialist review,324.18,80,No,2024-02-04
+T0941,A1639,CT Scan,Outpatient,Advanced protocol,2878.87,50,Yes,2024-07-29
+T0942,A1640,Blood Test,Outpatient,Routine test,267.92,50,No,2024-07-22
+T0943,A1646,Ultrasound,Inpatient,Specialist review,666.34,0,Yes,2023-01-16
+T0944,A1649,CT Scan,Surgery,Specialist review,3545.69,80,No,2024-12-29
+T0945,A1650,MRI,Surgery,Advanced protocol,3730.27,50,No,2024-02-12
+T0946,A1651,Physical Therapy,Inpatient,Diagnostic imaging,341.76,0,No,2023-09-06
+T0947,A1652,CT Scan,Outpatient,Diagnostic imaging,2714.26,50,Yes,2024-07-25
+T0948,A1653,Vaccination,Outpatient,Diagnostic imaging,181.5,70,Yes,2023-01-24
+T0949,A1654,Vaccination,Outpatient,Basic screening,179.93,0,Yes,2024-12-25
+T0950,A1655,Blood Test,Outpatient,Diagnostic imaging,272.24,50,Yes,2023-09-03
+T0951,A1656,Ultrasound,Inpatient,Follow-up assessment,654.12,0,No,2023-07-03
+T0952,A1661,CT Scan,Outpatient,Advanced protocol,3348.04,50,No,2023-02-27
+T0953,A1662,MRI,Inpatient,Specialist review,3680.59,70,Yes,2024-03-20
+T0954,A1664,Consultation,Outpatient,Advanced protocol,364.73,100,Yes,2024-07-10
+T0955,A1665,X-Ray,Inpatient,Specialist review,508.75,100,No,2023-03-04
+T0956,A1666,X-Ray,Outpatient,Standard procedure,501.63,80,Yes,2023-03-19
+T0957,A1670,Physical Therapy,Inpatient,Standard procedure,423.03,70,Yes,2024-02-24
+T0958,A1671,MRI,Inpatient,Routine test,3475.15,80,No,2024-11-24
+T0959,A1672,Medication Review,Inpatient,Standard procedure,183.3,50,No,2023-06-18
+T0960,A1674,Blood Test,Outpatient,Routine test,286.3,100,Yes,2024-05-27
+T0961,A1675,Minor Surgery,Inpatient,Standard procedure,4415.6,70,Yes,2023-12-05
+T0962,A1676,MRI,Inpatient,Routine test,4365.04,0,No,2023-06-18
+T0963,A1678,CT Scan,Inpatient,Basic screening,2844.42,50,No,2024-11-24
+T0964,A1680,CT Scan,Surgery,Advanced protocol,3017.15,100,Yes,2024-04-27
+T0965,A1681,Vaccination,Outpatient,Advanced protocol,144.82,70,Yes,2023-11-05
+T0966,A1682,Blood Test,Inpatient,Standard procedure,248.07,70,Yes,2024-03-23
+T0967,A1686,Medication Review,Inpatient,Basic screening,227.52,70,No,2023-06-28
+T0968,A1687,Consultation,Outpatient,Standard procedure,290.65,50,Yes,2023-09-24
+T0969,A1688,X-Ray,Outpatient,Standard procedure,538.28,70,Yes,2024-02-03
+T0970,A1689,Consultation,Inpatient,Basic screening,312.13,80,No,2023-05-19
+T0971,A1690,Minor Surgery,Inpatient,Advanced protocol,5577.34,80,No,2024-12-18
+T0972,A1694,Minor Surgery,Inpatient,Standard procedure,6123.66,100,No,2023-03-23
+T0973,A1695,X-Ray,Outpatient,Specialist review,571.51,80,Yes,2023-02-01
+T0974,A1697,MRI,Surgery,Follow-up assessment,3743.9,0,Yes,2023-11-02
+T0975,A1698,Chemotherapy,Inpatient,Basic screening,5174.84,70,No,2024-01-03
+T0976,A1699,X-Ray,Inpatient,Basic screening,477.45,70,Yes,2024-05-08
+T0977,A1700,Minor Surgery,Outpatient,Advanced protocol,5440.16,0,Yes,2024-03-08
+T0978,A1705,Physical Therapy,Outpatient,Diagnostic imaging,348.23,100,No,2024-05-30
+T0979,A1706,Consultation,Inpatient,Follow-up assessment,314.56,50,No,2024-01-09
+T0980,A1707,MRI,Outpatient,Basic screening,4354.95,0,No,2023-04-28
+T0981,A1708,Blood Test,Inpatient,Advanced protocol,245.92,80,No,2023-06-20
+T0982,A1710,Medication Review,Outpatient,Standard procedure,231.67,70,Yes,2023-10-10
+T0983,A1711,X-Ray,Outpatient,Basic screening,446.32,80,No,2024-12-22
+T0984,A1712,MRI,Inpatient,Basic screening,3520.22,70,Yes,2024-04-22
+T0985,A1713,Minor Surgery,Inpatient,Basic screening,5706.38,70,No,2023-11-07
+T0986,A1714,Blood Test,Inpatient,Basic screening,262.05,0,Yes,2024-06-01
+T0987,A1716,MRI,Outpatient,Routine test,4501.44,70,Yes,2023-07-28
+T0988,A1718,Vaccination,Outpatient,Specialist review,153.59,0,No,2023-02-25
+T0989,A1720,Minor Surgery,Outpatient,Follow-up assessment,4742.8,80,No,2024-10-27
+T0990,A1721,X-Ray,Inpatient,Routine test,588.82,100,No,2023-08-29
+T0991,A1723,MRI,Inpatient,Standard procedure,4679.07,80,No,2024-11-24
+T0992,A1724,MRI,Outpatient,Follow-up assessment,4511.51,0,No,2023-03-18
+T0993,A1727,Vaccination,Outpatient,Follow-up assessment,143.83,70,Yes,2024-02-19
+T0994,A1730,Chemotherapy,Surgery,Diagnostic imaging,6516.55,0,Yes,2023-12-13
+T0995,A1732,Medication Review,Inpatient,Basic screening,198.88,0,No,2023-02-20
+T0996,A1733,Ultrasound,Inpatient,Follow-up assessment,531.98,100,Yes,2024-02-10
+T0997,A1735,Ultrasound,Inpatient,Basic screening,730.16,80,No,2024-06-26
+T0998,A1737,Ultrasound,Surgery,Routine test,542.84,80,Yes,2024-07-24
+T0999,A1738,Vaccination,Inpatient,Standard procedure,184.51,0,No,2024-02-06
+T1000,A1739,Consultation,Outpatient,Diagnostic imaging,308.52,100,Yes,2024-02-11
+T1001,A1740,X-Ray,Outpatient,Specialist review,462.03,80,Yes,2024-03-31
+T1002,A1741,MRI,Inpatient,Advanced protocol,4267.04,50,Yes,2023-05-25
+T1003,A1742,Consultation,Outpatient,Follow-up assessment,359.75,0,No,2023-01-14
+T1004,A1744,Blood Test,Inpatient,Specialist review,285.72,50,No,2024-01-19
+T1005,A1749,Physical Therapy,Outpatient,Routine test,469.05,0,Yes,2023-05-04
+T1006,A1751,Minor Surgery,Inpatient,Diagnostic imaging,5567.57,80,No,2024-05-14
+T1007,A1752,Chemotherapy,Inpatient,Diagnostic imaging,6761.46,80,Yes,2024-09-27
+T1008,A1755,CT Scan,Outpatient,Diagnostic imaging,3569.03,100,No,2024-08-23
+T1009,A1756,X-Ray,Outpatient,Follow-up assessment,474.93,50,Yes,2024-10-27
+T1010,A1758,CT Scan,Outpatient,Diagnostic imaging,3137.31,100,Yes,2023-11-08
+T1011,A1759,X-Ray,Inpatient,Diagnostic imaging,469.24,0,No,2024-06-30
+T1012,A1760,Ultrasound,Outpatient,Standard procedure,747.04,80,No,2023-07-12
+T1013,A1761,Minor Surgery,Inpatient,Routine test,6138.12,80,No,2024-05-30
+T1014,A1764,Consultation,Inpatient,Advanced protocol,259.73,70,No,2023-11-27
+T1015,A1766,MRI,Inpatient,Diagnostic imaging,4528.92,100,No,2024-06-13
+T1016,A1768,Consultation,Inpatient,Follow-up assessment,366.03,70,Yes,2024-10-15
+T1017,A1769,Consultation,Inpatient,Routine test,276.67,80,No,2023-01-08
+T1018,A1770,Physical Therapy,Outpatient,Basic screening,430.87,70,No,2023-10-16
+T1019,A1771,Chemotherapy,Outpatient,Standard procedure,7297.17,80,Yes,2023-07-09
+T1020,A1774,Blood Test,Outpatient,Advanced protocol,215.89,70,No,2024-07-13
+T1021,A1775,Physical Therapy,Inpatient,Standard procedure,451.59,80,Yes,2024-12-10
+T1022,A1776,Blood Test,Inpatient,Follow-up assessment,242.23,50,No,2024-10-20
+T1023,A1778,Vaccination,Surgery,Specialist review,182.96,100,No,2023-03-13
+T1024,A1780,Consultation,Inpatient,Diagnostic imaging,371.53,50,Yes,2023-03-23
+T1025,A1781,Chemotherapy,Inpatient,Routine test,7366.24,100,No,2024-01-08
+T1026,A1782,MRI,Inpatient,Specialist review,4158.74,100,Yes,2024-01-06
+T1027,A1783,MRI,Outpatient,Advanced protocol,4779.27,50,Yes,2024-04-04
+T1028,A1784,Blood Test,Outpatient,Basic screening,296.95,80,Yes,2023-03-19
+T1029,A1786,Physical Therapy,Outpatient,Routine test,391.06,50,No,2023-02-15
+T1030,A1787,Physical Therapy,Outpatient,Specialist review,472.63,80,No,2024-09-19
+T1031,A1788,Medication Review,Outpatient,Basic screening,172.96,0,Yes,2023-07-09
+T1032,A1794,Physical Therapy,Inpatient,Follow-up assessment,435.4,100,No,2023-09-28
+T1033,A1795,MRI,Inpatient,Specialist review,3768.01,80,No,2024-07-27
+T1034,A1796,Physical Therapy,Outpatient,Advanced protocol,359.29,70,Yes,2024-11-15
+T1035,A1797,Chemotherapy,Outpatient,Basic screening,5284.69,80,Yes,2024-11-10
+T1036,A1798,MRI,Inpatient,Specialist review,4514.06,100,Yes,2023-07-16
+T1037,A1799,Blood Test,Inpatient,Routine test,246.49,50,Yes,2024-02-15
+T1038,A1804,Chemotherapy,Outpatient,Routine test,6839.44,80,Yes,2024-03-16
+T1039,A1806,Medication Review,Inpatient,Basic screening,175.23,80,Yes,2023-07-29
+T1040,A1807,Medication Review,Inpatient,Advanced protocol,195.22,100,Yes,2023-07-01
+T1041,A1809,Blood Test,Outpatient,Standard procedure,266.45,100,No,2024-09-24
+T1042,A1810,Medication Review,Outpatient,Standard procedure,233.26,80,No,2024-07-30
+T1043,A1812,Physical Therapy,Outpatient,Follow-up assessment,391.0,70,Yes,2024-05-04
+T1044,A1816,Vaccination,Inpatient,Standard procedure,165.05,100,No,2023-12-21
+T1045,A1817,CT Scan,Inpatient,Basic screening,3613.17,0,No,2024-07-28
+T1046,A1820,Ultrasound,Inpatient,Routine test,657.81,100,No,2024-08-01
+T1047,A1821,Chemotherapy,Outpatient,Routine test,5659.1,0,No,2024-10-23
+T1048,A1822,X-Ray,Inpatient,Standard procedure,429.88,70,No,2024-04-29
+T1049,A1824,Chemotherapy,Inpatient,Standard procedure,7188.24,70,Yes,2024-02-23
+T1050,A1827,MRI,Inpatient,Diagnostic imaging,3434.03,50,Yes,2023-07-17
+T1051,A1828,CT Scan,Inpatient,Follow-up assessment,3599.64,70,Yes,2023-11-11
+T1052,A1829,Consultation,Surgery,Routine test,318.47,80,No,2023-08-19
+T1053,A1830,Chemotherapy,Inpatient,Follow-up assessment,7353.76,80,No,2023-01-20
+T1054,A1831,Consultation,Inpatient,Diagnostic imaging,350.85,100,Yes,2023-03-24
+T1055,A1833,Physical Therapy,Outpatient,Routine test,499.67,50,No,2023-01-01
+T1056,A1834,Medication Review,Inpatient,Standard procedure,198.06,100,No,2023-12-01
+T1057,A1835,MRI,Outpatient,Specialist review,4627.5,100,Yes,2023-05-06
+T1058,A1837,Chemotherapy,Inpatient,Basic screening,6064.63,80,Yes,2023-06-20
+T1059,A1839,Chemotherapy,Outpatient,Routine test,6251.7,100,Yes,2023-10-12
+T1060,A1840,Medication Review,Outpatient,Standard procedure,220.2,0,Yes,2024-08-13
+T1061,A1841,Physical Therapy,Outpatient,Advanced protocol,479.79,70,No,2024-01-11
+T1062,A1842,Physical Therapy,Surgery,Standard procedure,497.45,70,No,2023-05-26
+T1063,A1844,Vaccination,Outpatient,Specialist review,173.6,0,No,2024-07-10
+T1064,A1845,Consultation,Inpatient,Specialist review,305.13,100,Yes,2023-05-15
+T1065,A1846,Vaccination,Inpatient,Advanced protocol,152.78,100,Yes,2024-01-27
+T1066,A1847,Medication Review,Outpatient,Follow-up assessment,229.01,100,No,2024-02-26
+T1067,A1849,Minor Surgery,Outpatient,Basic screening,4727.55,50,Yes,2023-08-25
+T1068,A1853,Blood Test,Inpatient,Standard procedure,223.55,80,No,2024-09-10
+T1069,A1858,MRI,Outpatient,Standard procedure,3967.4,50,Yes,2023-07-09
+T1070,A1862,Vaccination,Outpatient,Standard procedure,144.73,50,No,2023-12-03
+T1071,A1863,Medication Review,Outpatient,Basic screening,193.7,0,No,2024-05-01
+T1072,A1864,Chemotherapy,Outpatient,Advanced protocol,5660.66,50,Yes,2024-04-14
+T1073,A1868,Vaccination,Inpatient,Specialist review,130.03,0,Yes,2023-12-03
+T1074,A1869,CT Scan,Inpatient,Follow-up assessment,2571.45,80,No,2024-05-29
+T1075,A1872,Minor Surgery,Inpatient,Follow-up assessment,6225.44,80,Yes,2024-01-28
+T1076,A1873,Consultation,Outpatient,Diagnostic imaging,306.33,50,No,2023-01-24
+T1077,A1874,Consultation,Outpatient,Standard procedure,301.12,100,Yes,2024-02-05
+T1078,A1875,Consultation,Outpatient,Routine test,336.56,0,Yes,2023-03-17
+T1079,A1876,Blood Test,Inpatient,Routine test,234.33,70,No,2024-12-25
+T1080,A1878,MRI,Inpatient,Basic screening,4919.94,80,No,2023-02-15
+T1081,A1882,MRI,Inpatient,Basic screening,4658.15,0,No,2024-11-23
+T1082,A1885,Chemotherapy,Surgery,Follow-up assessment,5314.59,100,No,2023-01-11
+T1083,A1886,Minor Surgery,Inpatient,Routine test,5085.16,50,No,2023-06-27
+T1084,A1887,Vaccination,Outpatient,Standard procedure,180.25,50,Yes,2023-10-09
+T1085,A1888,Minor Surgery,Outpatient,Basic screening,6139.46,50,Yes,2023-10-22
+T1086,A1891,MRI,Outpatient,Advanced protocol,4147.84,0,Yes,2023-12-27
+T1087,A1892,X-Ray,Surgery,Standard procedure,547.68,0,No,2023-05-18
+T1088,A1893,Medication Review,Inpatient,Standard procedure,183.36,100,Yes,2023-03-08
+T1089,A1898,CT Scan,Inpatient,Basic screening,3739.4,0,Yes,2023-08-11
+T1090,A1899,Consultation,Surgery,Routine test,282.8,0,No,2023-01-03
+T1091,A1901,Vaccination,Outpatient,Follow-up assessment,184.06,0,No,2024-08-16
+T1092,A1902,Vaccination,Outpatient,Routine test,166.48,50,Yes,2024-06-17
+T1093,A1904,Medication Review,Inpatient,Routine test,218.62,0,No,2023-12-15
+T1094,A1906,Minor Surgery,Surgery,Routine test,5275.38,0,No,2024-04-20
+T1095,A1907,CT Scan,Inpatient,Diagnostic imaging,2826.8,50,No,2023-11-19
+T1096,A1908,X-Ray,Inpatient,Diagnostic imaging,460.31,100,Yes,2024-09-30
+T1097,A1912,Chemotherapy,Outpatient,Basic screening,5629.17,0,No,2023-08-27
+T1098,A1913,Blood Test,Surgery,Diagnostic imaging,231.14,50,No,2024-10-03
+T1099,A1914,Ultrasound,Inpatient,Advanced protocol,697.1,70,No,2024-05-06
+T1100,A1917,Chemotherapy,Outpatient,Advanced protocol,5940.3,0,No,2024-02-19
+T1101,A1918,Blood Test,Outpatient,Routine test,218.28,80,No,2024-12-30
+T1102,A1922,Blood Test,Inpatient,Basic screening,309.41,0,Yes,2023-03-28
+T1103,A1926,X-Ray,Outpatient,Specialist review,601.76,100,No,2023-12-07
+T1104,A1928,MRI,Inpatient,Basic screening,4884.4,100,Yes,2024-10-23
+T1105,A1931,X-Ray,Inpatient,Standard procedure,623.98,50,No,2023-01-23
+T1106,A1936,Chemotherapy,Outpatient,Standard procedure,5517.35,80,Yes,2024-02-10
+T1107,A1938,X-Ray,Outpatient,Specialist review,504.25,50,Yes,2023-03-02
+T1108,A1939,Chemotherapy,Surgery,Standard procedure,6919.77,70,No,2023-04-13
+T1109,A1943,X-Ray,Inpatient,Basic screening,564.2,0,Yes,2023-11-13
+T1110,A1948,MRI,Outpatient,Routine test,3646.23,50,No,2024-06-19
+T1111,A1955,Physical Therapy,Outpatient,Follow-up assessment,470.53,100,No,2024-10-05
+T1112,A1956,X-Ray,Outpatient,Standard procedure,469.89,70,Yes,2024-02-29
+T1113,A1957,X-Ray,Outpatient,Follow-up assessment,469.76,80,No,2023-05-11
+T1114,A1958,Chemotherapy,Outpatient,Specialist review,6388.74,80,No,2024-10-20
+T1115,A1959,Minor Surgery,Outpatient,Routine test,5435.88,50,Yes,2024-01-05
+T1116,A1960,MRI,Outpatient,Routine test,4328.14,0,Yes,2024-08-26
+T1117,A1961,X-Ray,Outpatient,Follow-up assessment,443.3,100,No,2023-03-21
+T1118,A1962,CT Scan,Inpatient,Routine test,3602.95,80,Yes,2023-09-28
+T1119,A1963,CT Scan,Inpatient,Follow-up assessment,2868.72,70,Yes,2024-01-29
+T1120,A1966,Medication Review,Inpatient,Specialist review,180.36,50,No,2024-11-20
+T1121,A1967,Vaccination,Outpatient,Basic screening,180.82,80,No,2023-10-29
+T1122,A1968,Consultation,Outpatient,Basic screening,369.68,70,No,2023-07-31
+T1123,A1971,Consultation,Outpatient,Routine test,358.46,100,Yes,2023-11-18
+T1124,A1972,Medication Review,Outpatient,Specialist review,234.76,70,Yes,2023-02-24
+T1125,A1973,Minor Surgery,Inpatient,Routine test,5560.48,50,No,2023-05-03
+T1126,A1976,Physical Therapy,Inpatient,Routine test,428.14,80,Yes,2024-09-15
+T1127,A1977,Ultrasound,Inpatient,Diagnostic imaging,530.88,0,Yes,2023-09-10
+T1128,A1979,Medication Review,Outpatient,Advanced protocol,202.68,100,No,2023-02-13
+T1129,A1980,Vaccination,Outpatient,Specialist review,149.86,50,Yes,2023-11-30
+T1130,A1981,Vaccination,Outpatient,Standard procedure,143.09,50,No,2024-07-04
+T1131,A1982,Chemotherapy,Outpatient,Basic screening,6836.21,100,Yes,2024-11-12
+T1132,A1983,Ultrasound,Outpatient,Routine test,629.01,80,No,2023-01-06
+T1133,A1985,Blood Test,Outpatient,Basic screening,220.6,80,No,2023-01-31
+T1134,A1988,CT Scan,Inpatient,Follow-up assessment,2814.22,0,No,2024-05-03
+T1135,A1989,Vaccination,Outpatient,Standard procedure,168.5,0,No,2024-10-15
+T1136,A1990,Medication Review,Inpatient,Basic screening,176.09,0,No,2024-05-05
+T1137,A1992,Minor Surgery,Outpatient,Basic screening,5952.41,100,Yes,2023-01-21
+T1138,A1995,X-Ray,Outpatient,Specialist review,524.03,100,No,2023-09-01
+T1139,A1998,Ultrasound,Inpatient,Diagnostic imaging,625.34,50,No,2023-02-20

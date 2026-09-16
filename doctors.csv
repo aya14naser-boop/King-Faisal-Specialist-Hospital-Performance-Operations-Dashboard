@@ -1,0 +1,26 @@
+doctor_id,first_name,last_name,specialization,department,phone_number,years_experience,hospital_branch,consultation_fee,avg_rating,email
+D001,Mona,Anderson,Neurology,Inpatient,6477709195,29,North Branch,533.21,3.9,dr.mona.anderson1@hospital.com
+D002,Omar,Anderson,Orthopedics,Surgery,1439427140,17,Downtown Hospital,402.66,4.2,dr.omar.anderson2@hospital.com
+D003,Maria,Brown,Neurology,Inpatient,3069050782,11,Downtown Hospital,438.27,4.7,dr.maria.brown3@hospital.com
+D004,Maria,Wilson,Neurology,Inpatient,4287687478,29,Westside Clinic,512.44,4.6,dr.maria.wilson4@hospital.com
+D005,Ahmed,Thomas,Gynecology,Outpatient,3923823693,24,Westside Clinic,444.93,5.0,dr.ahmed.thomas5@hospital.com
+D006,Fatima,Ali,Neurology,Inpatient,9741628563,23,Eastside Clinic,304.43,4.4,dr.fatima.ali6@hospital.com
+D007,Nour,Said,Ophthalmology,Outpatient,8180620422,17,Downtown Hospital,530.44,4.7,dr.nour.said7@hospital.com
+D008,Laura,Anderson,Psychiatry,Outpatient,5714169271,5,Downtown Hospital,476.33,4.1,dr.laura.anderson8@hospital.com
+D009,William,Johnson,Cardiology,Inpatient,6249538855,8,Downtown Hospital,339.21,4.8,dr.william.johnson9@hospital.com
+D010,Robert,Kamal,Oncology,Inpatient,6557907251,28,Westside Clinic,361.74,4.7,dr.robert.kamal10@hospital.com
+D011,Youssef,Rashid,Gynecology,Outpatient,5600836559,29,Eastside Clinic,375.21,4.7,dr.youssef.rashid11@hospital.com
+D012,Karim,Anderson,General Medicine,Outpatient,2774282158,28,Eastside Clinic,211.81,3.4,dr.karim.anderson12@hospital.com
+D013,Youssef,Mostafa,General Medicine,Outpatient,5910110341,28,Eastside Clinic,500.52,4.0,dr.youssef.mostafa13@hospital.com
+D014,Laura,Thomas,Ophthalmology,Outpatient,3725152347,1,North Branch,273.09,4.5,dr.laura.thomas14@hospital.com
+D015,Youssef,Miller,Cardiology,Inpatient,1378134712,20,North Branch,435.07,3.8,dr.youssef.miller15@hospital.com
+D016,Ahmed,Williams,ENT,Outpatient,9751963589,7,Downtown Hospital,577.53,4.8,dr.ahmed.williams16@hospital.com
+D017,James,Williams,Psychiatry,Outpatient,3906611156,21,Eastside Clinic,251.82,4.8,dr.james.williams17@hospital.com
+D018,John,Brown,Neurology,Inpatient,7823288650,6,Westside Clinic,520.73,3.6,dr.john.brown18@hospital.com
+D019,Omar,Ezz,Neurology,Inpatient,6745958212,29,Eastside Clinic,304.23,4.8,dr.omar.ezz19@hospital.com
+D020,James,Miller,Oncology,Inpatient,2732553940,8,Eastside Clinic,477.23,3.3,dr.james.miller20@hospital.com
+D021,David,Kamal,Urology,Surgery,3167384632,4,Downtown Hospital,470.0,4.6,dr.david.kamal21@hospital.com
+D022,Robert,Fahmy,General Medicine,Outpatient,3676343517,20,Westside Clinic,447.89,4.3,dr.robert.fahmy22@hospital.com
+D023,Emily,Brown,Dermatology,Outpatient,7085004726,13,Westside Clinic,396.28,3.9,dr.emily.brown23@hospital.com
+D024,James,Williams,Cardiology,Inpatient,6588252632,22,Westside Clinic,448.12,3.5,dr.james.williams24@hospital.com
+D025,John,Ibrahim,Gynecology,Outpatient,5800633419,4,Westside Clinic,373.98,4.2,dr.john.ibrahim25@hospital.com
