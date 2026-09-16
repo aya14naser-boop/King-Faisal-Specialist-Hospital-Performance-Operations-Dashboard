@@ -48,12 +48,13 @@ The dashboard starts with an interactive cover page providing navigation to the 
 --------------------------------------------------------
 
 Executive Overview
-<img width="2700" height="1572" alt="executive_overview" src="https://github.com/user-attachments/assets/5b6a5fbf-96a1-4af7-bb12-6df030b5b881" />
 
 The Executive Overview provides a high-level summary of hospital performance through key KPIs and trend analysis.
 
 
 Key Performance Indicators
+<img width="2647" height="1610" alt="Home" src="https://github.com/user-attachments/assets/16e107fc-65f5-4351-b6fd-81e90ec55cbc" />
+
 
 KPI	Value
 Total Revenue	$2.28M
@@ -76,7 +77,8 @@ Year and date-range filtering
 --------------------------------------------------------------------
 Doctors Performance
 
-<img width="2745" height="1595" alt="doctors_performance" src="https://github.com/user-attachments/assets/cc3d2947-d885-4c68-88df-84d0cd8aeff7" />
+
+<img width="2742" height="1655" alt="Doctor Profermonce " src="https://github.com/user-attachments/assets/5d2649ce-49a2-4e4d-ac1f-64852b674088" />
 
 
 This page focuses on physician-level performance and productivity.
@@ -102,11 +104,11 @@ Are there physicians with unusually high missed appointments?
 
 ---------------------------------------
 
- Operational Details
+ Payments & Visits
  
-<img width="2630" height="1570" alt="operational_details" src="https://github.com/user-attachments/assets/b096c674-3fb7-41d2-b113-45ca7ba89cfa" />
+<img width="2675" height="1590" alt="Payments   Visits" src="https://github.com/user-attachments/assets/196f9450-0c64-4524-ab17-198a3ce1568a" />
 
-The Operational Details page focuses on hospital operations, payment behavior, cancellations, and patient visit patterns.
+Payments & Visits page focuses on hospital operations, payment behavior, cancellations, and patient visit patterns.
 
 Payment Analysis
 
@@ -141,6 +143,16 @@ Follow-up
 Surgery Preparation
 Consultation
 
+-----------------
+
+Cancellation
+
+<img width="2645" height="1510" alt="Cancellation" src="https://github.com/user-attachments/assets/600c89a0-9f9e-4bed-a8ce-bcd6f4cdf262" />
+
+
+Insights
+
+<img width="2690" height="1625" alt="Insights" src="https://github.com/user-attachments/assets/00e3c28f-1483-4e78-9499-968b9466b8dd" />
 
 
 
